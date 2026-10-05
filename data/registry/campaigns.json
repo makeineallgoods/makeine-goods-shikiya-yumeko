@@ -74,8 +74,8 @@
     },
     {
       "id": "chara-in-line-art",
-      "name_zh": "キャラ印 角色商品",
-      "name_ja": "キャラ印 キャラクターグッズ",
+      "name_zh": "キャラ印 线稿系列",
+      "name_ja": "キャラ印 線画シリーズ",
       "aliases": [
         "TOSYO GOODS"
       ],
@@ -310,7 +310,7 @@
     },
     {
       "id": "osanpo-kisetsu",
-      "name_zh": "お散歩は季節をまとって。",
+      "name_zh": "散步披上季节。",
       "name_ja": "お散歩は季節をまとって。",
       "aliases": [],
       "year": 2026,

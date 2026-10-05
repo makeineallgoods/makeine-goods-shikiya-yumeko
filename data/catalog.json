@@ -1195,12 +1195,12 @@
       "id": "gagaga-J2026001401",
       "global_product_id": "gagaga-j2026001401",
       "character_id": "shikiya-yumeko",
-      "name_ja": "『負けヒロインが多すぎる！』 書影アクリルキーホルダー",
-      "name_zh": "书影亚克力挂件",
+      "name_ja": "『負けヒロインが多すぎる！』書影アクリルキーホルダー（1）",
+      "name_zh": "小说封面亚克力挂件（1）",
       "category_id": "acrylic_keychain",
       "campaign_id": "book-cover-series",
       "manufacturer_id": "gagaga-shop-online",
-      "variant": "商品图案或套装明确包含温水佳树",
+      "variant": "封面图（1）包含志喜屋梦子",
       "sale_format": {
         "type": "single",
         "total_variants": null
@@ -1238,7 +1238,7 @@
       "tags": [
         "小说原作",
         "GAGAGA SHOP",
-        "温水佳树"
+        "志喜屋梦子"
       ],
       "notes": null
     },
@@ -1349,7 +1349,7 @@
       "global_product_id": "animate-2990549",
       "character_id": "shikiya-yumeko",
       "name_ja": "フォンタブ・志喜屋夢子",
-      "name_zh": "手机夹片・志喜屋梦子",
+      "name_zh": "线稿手机夹片 志喜屋梦子",
       "category_id": "accessory",
       "campaign_id": "chara-in-line-art",
       "manufacturer_id": "tosyo-chara-in",
@@ -1399,7 +1399,7 @@
       "global_product_id": "animate-2990558",
       "character_id": "shikiya-yumeko",
       "name_ja": "マグカップ・志喜屋夢子",
-      "name_zh": "马克杯・志喜屋梦子",
+      "name_zh": "线稿马克杯 志喜屋梦子",
       "category_id": "tableware",
       "campaign_id": "chara-in-line-art",
       "manufacturer_id": "tosyo-chara-in",
@@ -1449,7 +1449,7 @@
       "global_product_id": "animate-2990567",
       "character_id": "shikiya-yumeko",
       "name_ja": "白雲石コースター・志喜屋夢子",
-      "name_zh": "白云石杯垫・志喜屋梦子",
+      "name_zh": "线稿白云石杯垫 志喜屋梦子",
       "category_id": "tableware",
       "campaign_id": "chara-in-line-art",
       "manufacturer_id": "tosyo-chara-in",
@@ -1652,7 +1652,7 @@
       "global_product_id": "contents-seed-official-sns-keychain-shikiya",
       "character_id": "shikiya-yumeko",
       "name_ja": "SNS風アクリルキーホルダー 志喜屋夢子",
-      "name_zh": "Contents Seed 官方插画 SNS风亚克力挂件 志喜屋梦子",
+      "name_zh": "SNS风亚克力挂件 志喜屋梦子",
       "category_id": "acrylic_keychain",
       "campaign_id": "contents-seed-2025",
       "manufacturer_id": "contents-seed",
@@ -2260,7 +2260,7 @@
       "global_product_id": "angel-devil-trading-badge",
       "character_id": "shikiya-yumeko",
       "name_ja": "トレーディング缶バッジBOX（天使＆悪魔）11個入り",
-      "name_zh": "天使与恶魔 随机徽章 小鞠知花款",
+      "name_zh": "天使与恶魔 随机徽章 志喜屋梦子款",
       "category_id": "can_badge",
       "campaign_id": "curtain-damashii-angel-devil-2025",
       "manufacturer_id": "key-th-curtain-damashii",
@@ -2820,7 +2820,7 @@
       "global_product_id": "cider-trading-badge",
       "character_id": "shikiya-yumeko",
       "name_ja": "トレーディング缶バッジBOX（サイダー）9個入り",
-      "name_zh": "汽水主题 随机徽章 小鞠知花款",
+      "name_zh": "汽水主题 随机徽章 志喜屋梦子款",
       "category_id": "can_badge",
       "campaign_id": "curtain-damashii-cider-2025",
       "manufacturer_id": "key-th-curtain-damashii",
@@ -2974,7 +2974,7 @@
       "global_product_id": "eternorecit-keychain-shikiya",
       "character_id": "shikiya-yumeko",
       "name_ja": "アクリルキーホルダー 志喜屋夢子",
-      "name_zh": "Eterno Recit 亚克力挂件",
+      "name_zh": "Eterno Récit 亚克力挂件 志喜屋梦子",
       "category_id": "acrylic_keychain",
       "campaign_id": "eterno-recit-heart",
       "manufacturer_id": "eterno-recit",
@@ -3378,14 +3378,14 @@
     },
     {
       "id": "gagaga-J20250007",
-      "global_product_id": "gagaga-J20250007",
+      "global_product_id": "gagaga-j20250007",
       "character_id": "shikiya-yumeko",
       "name_ja": "『負けヒロインが多すぎる！』アクリルキーホルダー 志喜屋夢子",
-      "name_zh": "『負けヒロインが多すぎる！』亚克力挂件 志喜屋梦子",
+      "name_zh": "原作等身亚克力挂件 志喜屋梦子",
       "category_id": "acrylic_keychain",
       "campaign_id": "gagaga-original-2025",
       "manufacturer_id": "gagaga-shop-online",
-      "variant": "商品图或套装明确包含志喜屋梦子",
+      "variant": "志喜屋梦子",
       "sale_format": {
         "type": "single",
         "total_variants": null
@@ -3428,7 +3428,7 @@
     },
     {
       "id": "gagaga-J20260042",
-      "global_product_id": "gagaga-J20260042",
+      "global_product_id": "gagaga-j20260042",
       "character_id": "shikiya-yumeko",
       "name_ja": "アクリルスタンド 志喜屋夢子＆馬剃天愛星",
       "name_zh": "志喜屋梦子＆马剃天爱星 亚克力立牌",
@@ -3967,11 +3967,11 @@
       "global_product_id": "gagaga-j20230036",
       "character_id": "shikiya-yumeko",
       "name_ja": "『負けヒロインが多すぎる！』JR東海コラボイラスト ミニタペストリー",
-      "name_zh": "JR東海联动イラスト ミニ挂毯",
+      "name_zh": "JR东海联动插图迷你挂毯",
       "category_id": "tapestry",
       "campaign_id": "jr-central-oshi-tabi-2023",
       "manufacturer_id": "gagaga-shop-online",
-      "variant": "商品图案或套装明确包含温水佳树",
+      "variant": "图案包含志喜屋梦子",
       "sale_format": {
         "type": "single",
         "total_variants": null
@@ -4009,7 +4009,7 @@
       "tags": [
         "小说原作",
         "GAGAGA SHOP",
-        "温水佳树"
+        "志喜屋梦子"
       ],
       "notes": null
     },
@@ -4569,7 +4569,7 @@
       "global_product_id": "animate-3342608",
       "character_id": "shikiya-yumeko",
       "name_ja": "描き下ろし 志喜屋 夢子 駅員ver. 第2弾 特大アクリルスタンド",
-      "name_zh": "新绘 志喜屋梦子 站员 ver. 第二弹 特大亚克力立牌",
+      "name_zh": "JR东海站员第二弹 特大亚克力立牌 志喜屋梦子",
       "category_id": "acrylic_stand",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -4619,7 +4619,7 @@
       "global_product_id": "animate-3342611",
       "character_id": "shikiya-yumeko",
       "name_ja": "描き下ろし 志喜屋 夢子 駅員ver. 第2弾 BIGアクリルスタンド",
-      "name_zh": "新绘 志喜屋梦子 站员 ver. 第二弹 BIG亚克力立牌",
+      "name_zh": "JR东海站员第二弹 BIG亚克力立牌 志喜屋梦子",
       "category_id": "acrylic_stand",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -4669,7 +4669,7 @@
       "global_product_id": "animate-3342619",
       "character_id": "shikiya-yumeko",
       "name_ja": "描き下ろし 志喜屋 夢子 駅員ver. 第2弾 2連ワイヤーBIGアクリルキーホルダー",
-      "name_zh": "新绘 志喜屋梦子 站员 ver. 第二弹 2連ワイヤーBIG亚克力挂件",
+      "name_zh": "JR东海站员第二弹 双联钢丝大型亚克力挂件 志喜屋梦子",
       "category_id": "acrylic_keychain",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -4719,7 +4719,7 @@
       "global_product_id": "animate-3342627",
       "character_id": "shikiya-yumeko",
       "name_ja": "描き下ろし 志喜屋 夢子 駅員ver. 第2弾 ダイカットステッカー",
-      "name_zh": "新绘 志喜屋梦子 站员 ver. 第二弹 ダイカット贴纸",
+      "name_zh": "JR东海站员第二弹 异形贴纸 志喜屋梦子",
       "category_id": "sticker",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -6263,11 +6263,11 @@
       "global_product_id": "gagaga-j20220038",
       "character_id": "shikiya-yumeko",
       "name_ja": "『負けヒロインが多すぎる！2』 アクリルキーホルダーセット",
-      "name_zh": "亚克力挂件セット",
+      "name_zh": "小说第2卷亚克力挂件套装",
       "category_id": "acrylic_keychain",
       "campaign_id": "novel-volume-2",
       "manufacturer_id": "gagaga-shop-online",
-      "variant": "商品图案或套装明确包含烧盐柠檬",
+      "variant": "套装内含志喜屋梦子",
       "sale_format": {
         "type": "set",
         "total_variants": null
@@ -6305,13 +6305,13 @@
       "tags": [
         "小说原作",
         "GAGAGA SHOP",
-        "烧盐柠檬"
+        "志喜屋梦子"
       ],
       "notes": null
     },
     {
       "id": "gagaga-J20220053",
-      "global_product_id": "gagaga-J20220053",
+      "global_product_id": "gagaga-j20220053",
       "character_id": "shikiya-yumeko",
       "name_ja": "『負けヒロインが多すぎる！3』アクリルアートパネル ～生徒会役員ども～",
       "name_zh": "小说第3卷亚克力艺术板 学生会干部们",
@@ -6361,7 +6361,7 @@
     },
     {
       "id": "gagaga-J20220140",
-      "global_product_id": "gagaga-J20220140",
+      "global_product_id": "gagaga-j20220140",
       "character_id": "shikiya-yumeko",
       "name_ja": "『負けヒロインが多すぎる！４』 書影B2タペストリー",
       "name_zh": "『負けヒロインが多すぎる！４』 書影B2タペストリー",
@@ -6411,7 +6411,7 @@
     },
     {
       "id": "gagaga-J20230021",
-      "global_product_id": "gagaga-J20230021",
+      "global_product_id": "gagaga-j20230021",
       "character_id": "shikiya-yumeko",
       "name_ja": "『負けヒロインが多すぎる！ 4』アクリルアートパネル ～そこにはかつて自分の隣にいた、懐かしい姿があった。～",
       "name_zh": "『負けヒロインが多すぎる！ 4』アクリルアートパネル ～そこにはかつて自分の隣にいた、懐かしい姿があった。～",
@@ -6461,7 +6461,7 @@
     },
     {
       "id": "gagaga-J20230060",
-      "global_product_id": "gagaga-J20230060",
+      "global_product_id": "gagaga-j20230060",
       "character_id": "shikiya-yumeko",
       "name_ja": "『負けヒロインが多すぎる！6』アクリルアートパネル",
       "name_zh": "小说第6卷亚克力艺术板",
@@ -6511,7 +6511,7 @@
     },
     {
       "id": "gagaga-J20250016",
-      "global_product_id": "gagaga-J20250016",
+      "global_product_id": "gagaga-j20250016",
       "character_id": "shikiya-yumeko",
       "name_ja": "『負けヒロインが多すぎる！ 7』 アクリルアートパネル ～チャペルにて～",
       "name_zh": "『負けヒロインが多すぎる！ 7』 アクリルアートパネル ～チャペルにて～",
@@ -6561,7 +6561,7 @@
     },
     {
       "id": "gagaga-J20260036",
-      "global_product_id": "gagaga-J20260036",
+      "global_product_id": "gagaga-j20260036",
       "character_id": "shikiya-yumeko",
       "name_ja": "『負けヒロインが多すぎる！』9巻 口絵タペストリー ～いざ祇園祭～",
       "name_zh": "小说第9卷彩页挂毯 前往祗园祭",
@@ -6612,14 +6612,14 @@
     },
     {
       "id": "gagaga-J20260040",
-      "global_product_id": "gagaga-J20260040",
+      "global_product_id": "gagaga-j20260040",
       "character_id": "shikiya-yumeko",
       "name_ja": "『負けヒロインが多すぎる！』9巻 アクリルキーホルダーセット",
       "name_zh": "小说第9卷亚克力挂件套装",
       "category_id": "acrylic_keychain",
       "campaign_id": "novel-volume-9",
       "manufacturer_id": "gagaga-shop-online",
-      "variant": "套装内含马剃天爱星",
+      "variant": "套装内含志喜屋梦子、马剃天爱星、温水佳树",
       "sale_format": {
         "type": "set",
         "total_variants": null
@@ -6656,20 +6656,21 @@
       ],
       "tags": [
         "小说原作",
-        "套装"
+        "套装",
+        "志喜屋梦子"
       ],
       "notes": null
     },
     {
       "id": "gagaga-J20260023",
-      "global_product_id": "gagaga-J20260023",
+      "global_product_id": "gagaga-j20260023",
       "character_id": "shikiya-yumeko",
       "name_ja": "『負けヒロインが多すぎる！』×『お散歩は季節をまとって。』 アクリルキーホルダー 志喜屋夢子",
-      "name_zh": "『負けヒロインが多すぎる！』×『お散歩は季節をまとって。』 亚克力挂件 志喜屋梦子",
+      "name_zh": "散步披上季节 亚克力挂件 志喜屋梦子",
       "category_id": "acrylic_keychain",
       "campaign_id": "osanpo-kisetsu",
       "manufacturer_id": "gagaga-shop-online",
-      "variant": "商品图或套装明确包含志喜屋梦子",
+      "variant": "志喜屋梦子",
       "sale_format": {
         "type": "single",
         "total_variants": null
@@ -6973,11 +6974,11 @@
       "global_product_id": "gagaga-j20250040",
       "character_id": "shikiya-yumeko",
       "name_ja": "『負けヒロインが多すぎる！』×「竹島水族館」コラボランダム缶バッジ",
-      "name_zh": "×「竹島水族館」联动随机徽章",
+      "name_zh": "竹岛水族馆联动 随机徽章 志喜屋梦子款",
       "category_id": "can_badge",
       "campaign_id": "takeshima-aquarium",
       "manufacturer_id": "gagaga-shop-online",
-      "variant": "商品图案或套装明确包含温水佳树",
+      "variant": "志喜屋梦子款包含在随机阵容中",
       "sale_format": {
         "type": "random",
         "total_variants": null
@@ -7015,20 +7016,20 @@
       "tags": [
         "小说原作",
         "GAGAGA SHOP",
-        "温水佳树"
+        "志喜屋梦子"
       ],
       "notes": null
     },
     {
       "id": "gagaga-J20250043",
-      "global_product_id": "gagaga-J20250043",
+      "global_product_id": "gagaga-j20250043",
       "character_id": "shikiya-yumeko",
-      "name_ja": "竹島水族館コラボ アクリルキーホルダーセット C",
-      "name_zh": "竹岛水族馆联动亚克力挂件套装 C",
+      "name_ja": "『負けヒロインが多すぎる！』×「竹島水族館」コラボアクリルキーホルダーセット C",
+      "name_zh": "竹岛水族馆联动 亚克力挂件套装 C",
       "category_id": "acrylic_keychain",
       "campaign_id": "takeshima-aquarium",
       "manufacturer_id": "gagaga-shop-online",
-      "variant": "C 套装内含马剃天爱星",
+      "variant": "C套装内含志喜屋梦子",
       "sale_format": {
         "type": "set",
         "total_variants": null
@@ -7072,14 +7073,14 @@
     },
     {
       "id": "gagaga-J20250046",
-      "global_product_id": "gagaga-J20250046",
+      "global_product_id": "gagaga-j20250046",
       "character_id": "shikiya-yumeko",
-      "name_ja": "竹島水族館コラボ ステッカーセット C",
-      "name_zh": "竹岛水族馆联动贴纸套装 C",
+      "name_ja": "『負けヒロインが多すぎる！』×「竹島水族館」コラボステッカーセット C",
+      "name_zh": "竹岛水族馆联动 贴纸套装 C",
       "category_id": "sticker",
       "campaign_id": "takeshima-aquarium",
       "manufacturer_id": "gagaga-shop-online",
-      "variant": "C 套装内含马剃天爱星",
+      "variant": "C套装内含志喜屋梦子",
       "sale_format": {
         "type": "set",
         "total_variants": null
@@ -7123,14 +7124,14 @@
     },
     {
       "id": "gagaga-J20250053",
-      "global_product_id": "gagaga-J20250053",
+      "global_product_id": "gagaga-j20250053",
       "character_id": "shikiya-yumeko",
       "name_ja": "『負けヒロインが多すぎる！』×「竹島水族館」コラボアクリルスタンド 志喜屋夢子",
-      "name_zh": "『負けヒロインが多すぎる！』×「竹島水族館」コラボ亚克力立牌 志喜屋梦子",
+      "name_zh": "竹岛水族馆联动 亚克力立牌 志喜屋梦子",
       "category_id": "acrylic_stand",
       "campaign_id": "takeshima-aquarium",
       "manufacturer_id": "gagaga-shop-online",
-      "variant": "商品图或套装明确包含志喜屋梦子",
+      "variant": "志喜屋梦子",
       "sale_format": {
         "type": "single",
         "total_variants": null
@@ -7176,11 +7177,11 @@
       "global_product_id": "gagaga-j20250056",
       "character_id": "shikiya-yumeko",
       "name_ja": "『負けヒロインが多すぎる！』×「竹島水族館」コラボクリアファイル A",
-      "name_zh": "×「竹島水族館」联动透明文件夹 A",
+      "name_zh": "竹岛水族馆联动 透明文件夹 A",
       "category_id": "clear_file",
       "campaign_id": "takeshima-aquarium",
       "manufacturer_id": "gagaga-shop-online",
-      "variant": "商品图案或套装明确包含温水佳树",
+      "variant": "A图案包含志喜屋梦子",
       "sale_format": {
         "type": "single",
         "total_variants": null
@@ -7218,7 +7219,7 @@
       "tags": [
         "小说原作",
         "GAGAGA SHOP",
-        "温水佳树"
+        "志喜屋梦子"
       ],
       "notes": null
     },
@@ -7380,7 +7381,7 @@
       "global_product_id": "hobbystock-trading-badge-vol1",
       "character_id": "shikiya-yumeko",
       "name_ja": "トレーディング缶バッジ vol.1",
-      "name_zh": "随机徽章 vol.1 小鞠知花款",
+      "name_zh": "随机徽章 vol.1 志喜屋梦子款",
       "category_id": "can_badge",
       "campaign_id": "trading-can-badge-vol-1",
       "manufacturer_id": "hobby-stock",
@@ -7482,7 +7483,7 @@
       "global_product_id": "animate-3604775",
       "character_id": "shikiya-yumeko",
       "name_ja": "ちょいデカアクリルキーホルダー 志喜屋 夢子 平成ギャルver.",
-      "name_zh": "稍大尺寸亚克力挂件 志喜屋梦子 平成辣妹 ver.",
+      "name_zh": "平成辣妹 稍大亚克力挂件 志喜屋梦子",
       "category_id": "acrylic_keychain",
       "campaign_id": "tsutaya-heisei-gyaru-2026",
       "manufacturer_id": "bell-house",
@@ -7532,7 +7533,7 @@
       "global_product_id": "animate-3604781",
       "character_id": "shikiya-yumeko",
       "name_ja": "缶バッジ 志喜屋 夢子 平成ギャルver.",
-      "name_zh": "徽章 志喜屋梦子 平成辣妹 ver.",
+      "name_zh": "平成辣妹 徽章 志喜屋梦子",
       "category_id": "can_badge",
       "campaign_id": "tsutaya-heisei-gyaru-2026",
       "manufacturer_id": "bell-house",
@@ -7582,7 +7583,7 @@
       "global_product_id": "animate-3604787",
       "character_id": "shikiya-yumeko",
       "name_ja": "アクリルスタンド 志喜屋 夢子 平成ギャルver.",
-      "name_zh": "亚克力立牌 志喜屋梦子 平成辣妹 ver.",
+      "name_zh": "平成辣妹 亚克力立牌 志喜屋梦子",
       "category_id": "acrylic_stand",
       "campaign_id": "tsutaya-heisei-gyaru-2026",
       "manufacturer_id": "bell-house",
@@ -7632,7 +7633,7 @@
       "global_product_id": "animate-3604792",
       "character_id": "shikiya-yumeko",
       "name_ja": "ミニスタンド 志喜屋 夢子 平成ギャルver.",
-      "name_zh": "迷你立牌 志喜屋梦子 平成辣妹 ver.",
+      "name_zh": "平成辣妹 迷你立牌 志喜屋梦子",
       "category_id": "acrylic_stand",
       "campaign_id": "tsutaya-heisei-gyaru-2026",
       "manufacturer_id": "bell-house",
@@ -7682,7 +7683,7 @@
       "global_product_id": "animate-3604797",
       "character_id": "shikiya-yumeko",
       "name_ja": "クリアファイル 志喜屋 夢子 平成ギャルver.",
-      "name_zh": "透明文件夹 志喜屋梦子 平成辣妹 ver.",
+      "name_zh": "平成辣妹 透明文件夹 志喜屋梦子",
       "category_id": "clear_file",
       "campaign_id": "tsutaya-heisei-gyaru-2026",
       "manufacturer_id": "bell-house",
@@ -7732,7 +7733,7 @@
       "global_product_id": "animate-3604802",
       "character_id": "shikiya-yumeko",
       "name_ja": "スリムタペストリー 志喜屋 夢子 平成ギャルver.",
-      "name_zh": "窄幅挂毯 志喜屋梦子 平成辣妹 ver.",
+      "name_zh": "平成辣妹 窄幅挂毯 志喜屋梦子",
       "category_id": "tapestry",
       "campaign_id": "tsutaya-heisei-gyaru-2026",
       "manufacturer_id": "bell-house",
@@ -10062,7 +10063,7 @@
       "global_product_id": "tosyo-winter-bookmarker-shikiya",
       "character_id": "shikiya-yumeko",
       "name_ja": "ブックマーカー・志喜屋夢子_冬制服",
-      "name_zh": "冬制服金属书签",
+      "name_zh": "冬制服 书签 志喜屋梦子",
       "category_id": "stationery",
       "campaign_id": "winter-uniform",
       "manufacturer_id": "tosyo-chara-in",
@@ -10117,7 +10118,7 @@
       "global_product_id": "tosyo-winter-keychain-shikiya",
       "character_id": "shikiya-yumeko",
       "name_ja": "アクリルキーホルダー・志喜屋夢子_冬制服",
-      "name_zh": "冬制服亚克力挂件",
+      "name_zh": "冬制服 亚克力挂件 志喜屋梦子",
       "category_id": "acrylic_keychain",
       "campaign_id": "winter-uniform",
       "manufacturer_id": "tosyo-chara-in",
@@ -10172,7 +10173,7 @@
       "global_product_id": "tosyo-winter-stamp-shikiya",
       "character_id": "shikiya-yumeko",
       "name_ja": "アクリルスタンプ・志喜屋夢子_冬制服",
-      "name_zh": "冬制服亚克力印章",
+      "name_zh": "冬制服 亚克力印章 志喜屋梦子",
       "category_id": "stationery",
       "campaign_id": "winter-uniform",
       "manufacturer_id": "tosyo-chara-in",
@@ -10227,7 +10228,7 @@
       "global_product_id": "tosyo-winter-stand-shikiya",
       "character_id": "shikiya-yumeko",
       "name_ja": "アクリルフィギュアスタンド・志喜屋夢子_冬制服",
-      "name_zh": "冬制服亚克力人物立牌",
+      "name_zh": "冬制服 亚克力立牌 志喜屋梦子",
       "category_id": "acrylic_stand",
       "campaign_id": "winter-uniform",
       "manufacturer_id": "tosyo-chara-in",
