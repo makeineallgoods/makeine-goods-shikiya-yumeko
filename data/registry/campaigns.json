@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-05",
+  "updated_at": "2026-10-06",
   "campaigns": [
     {
       "id": "across-tsuwabuki-chibi-2025",
@@ -74,10 +74,11 @@
     },
     {
       "id": "chara-in-line-art",
-      "name_zh": "キャラ印 线稿系列",
+      "name_zh": "Chara-in 线稿系列",
       "name_ja": "キャラ印 線画シリーズ",
       "aliases": [
-        "TOSYO GOODS"
+        "TOSYO GOODS",
+        "线稿系列"
       ],
       "year": 2024,
       "official_url": "https://tosyo-goods.jp/collections/charain_makeine"
@@ -263,8 +264,8 @@
       "name_zh": "小说第2卷",
       "name_ja": "小説第2巻",
       "aliases": [],
-      "year": 2022,
-      "official_url": "https://lifetunes-mall.jp/shop/g/gJ20220038/"
+      "year": 2021,
+      "official_url": "https://gagagabunko.jp/lineup/202111.html"
     },
     {
       "id": "novel-volume-3",
@@ -280,7 +281,7 @@
       "name_ja": "小説第4巻",
       "aliases": [],
       "year": 2022,
-      "official_url": "https://lifetunes-mall.jp/shop/g/gJ20220140/"
+      "official_url": "https://gagagabunko.jp/lineup/202210.html"
     },
     {
       "id": "novel-volume-6",
@@ -296,7 +297,7 @@
       "name_ja": "小説第7巻",
       "aliases": [],
       "year": 2024,
-      "official_url": "https://lifetunes-mall.jp/shop/g/gJ20250016/"
+      "official_url": "https://gagagabunko.jp/lineup/202407.html"
     },
     {
       "id": "novel-volume-9",
@@ -306,7 +307,7 @@
         "祇园祭"
       ],
       "year": 2026,
-      "official_url": "https://lifetunes-mall.jp/shop/g/gJ20260036/"
+      "official_url": "https://gagagabunko.jp/special/makeine/"
     },
     {
       "id": "osanpo-kisetsu",
