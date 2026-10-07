@@ -4,7 +4,7 @@
   "catalog": {
     "title": "志喜屋梦子制品图鉴",
     "scope": "《败犬女主太多了！》中明确包含志喜屋梦子的官方实体制品",
-    "updated_at": "2026-10-05",
+    "updated_at": "2026-10-07",
     "status": "collecting"
   },
   "character": {
@@ -512,13 +512,13 @@
       "release_date": "2025-08-20",
       "list_price_yen": 2750,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/animega-chibi-2025-big-stand-shikiya-lineup.jpg",
+          "path": "images/items/animega-chibi-2025-big-stand-shikiya.jpg",
           "thumbnail_path": "images/thumbs/animega-chibi-2025-big-stand-shikiya.webp",
           "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/66407/244/66407-244-70aaeddb8c8a2e0d33154ffb0ea1d831-1000x1000.jpg"
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/66407/244/66407-244-7983d576b19a83ff621a1df6ac1ef624-1000x1000.jpg"
         }
       ],
       "sales": [
@@ -532,14 +532,14 @@
         {
           "url": "https://prtimes.jp/main/html/rd/p/000000244.000066407.html",
           "type": "official",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "动画版",
         "志喜屋梦子"
       ],
-      "notes": "暂用同系列官方全阵容图，待补志喜屋单品详情图。"
+      "notes": "已按同活动的官方商品品类图与其他角色项目交叉核对。"
     },
     {
       "id": "animega-chibi-2025-cushion-shikiya",
@@ -562,13 +562,13 @@
       "release_date": "2025-08-20",
       "list_price_yen": 2200,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/animega-chibi-2025-cushion-shikiya-lineup.jpg",
+          "path": "images/items/animega-chibi-2025-cushion-shikiya.jpg",
           "thumbnail_path": "images/thumbs/animega-chibi-2025-cushion-shikiya.webp",
           "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/66407/244/66407-244-70aaeddb8c8a2e0d33154ffb0ea1d831-1000x1000.jpg"
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/66407/244/66407-244-6424fabaccf2d064b025f9bcfa2b9315-1000x1000.jpg"
         }
       ],
       "sales": [
@@ -582,14 +582,14 @@
         {
           "url": "https://prtimes.jp/main/html/rd/p/000000244.000066407.html",
           "type": "official",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "动画版",
         "志喜屋梦子"
       ],
-      "notes": "暂用同系列官方全阵容图，待补志喜屋单品详情图。"
+      "notes": "已按同活动的官方商品品类图与其他角色项目交叉核对。"
     },
     {
       "id": "animega-chibi-2025-eco-bag",
@@ -812,13 +812,13 @@
       "release_date": "2025-08-20",
       "list_price_yen": null,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/animega-chibi-2025-postcard-bonus-shikiya-lineup.jpg",
+          "path": "images/items/animega-chibi-2025-postcard-bonus-shikiya.jpg",
           "thumbnail_path": "images/thumbs/animega-chibi-2025-postcard-bonus-shikiya.webp",
           "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/66407/244/66407-244-70aaeddb8c8a2e0d33154ffb0ea1d831-1000x1000.jpg"
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/66407/244/66407-244-841fd7f974cb43b29ec00dae1471e082-3900x2758.jpg"
         }
       ],
       "sales": [
@@ -832,14 +832,14 @@
         {
           "url": "https://prtimes.jp/main/html/rd/p/000000244.000066407.html",
           "type": "official",
-          "checked_at": "2026-10-02"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "动画版",
         "志喜屋梦子"
       ],
-      "notes": "每购买满2000日元随机赠送1枚；非单独销售。 暂用同系列官方全阵容图，待补志喜屋单品详情图。"
+      "notes": "已按同活动的官方商品品类图与其他角色项目交叉核对。"
     },
     {
       "id": "animega-chibi-2025-stand-shikiya",
@@ -862,13 +862,13 @@
       "release_date": "2025-08-20",
       "list_price_yen": 1210,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/animega-chibi-2025-stand-shikiya-lineup.jpg",
+          "path": "images/items/animega-chibi-2025-stand-shikiya.jpg",
           "thumbnail_path": "images/thumbs/animega-chibi-2025-stand-shikiya.webp",
           "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/66407/244/66407-244-70aaeddb8c8a2e0d33154ffb0ea1d831-1000x1000.jpg"
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/66407/244/66407-244-9370d70bf93fce79c53ddf34a8c7e939-1000x1000.jpg"
         }
       ],
       "sales": [
@@ -882,14 +882,14 @@
         {
           "url": "https://prtimes.jp/main/html/rd/p/000000244.000066407.html",
           "type": "official",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "动画版",
         "志喜屋梦子"
       ],
-      "notes": "暂用同系列官方全阵容图，待补志喜屋单品详情图。"
+      "notes": "已按同活动的官方商品品类图与其他角色项目交叉核对。"
     },
     {
       "id": "animega-chibi-2025-sticker-set",
@@ -912,13 +912,13 @@
       "release_date": "2025-08-20",
       "list_price_yen": 935,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/animega-chibi-2025-sticker-set-lineup.jpg",
+          "path": "images/items/animega-chibi-2025-sticker-set.jpg",
           "thumbnail_path": "images/thumbs/animega-chibi-2025-sticker-set.webp",
           "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/66407/244/66407-244-70aaeddb8c8a2e0d33154ffb0ea1d831-1000x1000.jpg"
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/66407/244/66407-244-7b07903f04de22041c3f1259ca7e87e0-1000x1000.jpg"
         }
       ],
       "sales": [
@@ -932,7 +932,7 @@
         {
           "url": "https://prtimes.jp/main/html/rd/p/000000244.000066407.html",
           "type": "official",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-06"
         }
       ],
       "tags": [
@@ -1045,7 +1045,7 @@
       "id": "animate-3347575",
       "global_product_id": "animate-3347575",
       "character_id": "shikiya-yumeko",
-      "name_ja": "×ばくだん焼本舗　ネームバッジ　志喜屋 夢子",
+      "name_ja": "×ばくだん焼本舗　ネームバッジ　志喜屋夢子",
       "name_zh": "×ばくだん焼本舗　姓名徽章　志喜屋梦子",
       "category_id": "can_badge",
       "campaign_id": "bakudanyaki-collaboration-2025",
@@ -1095,7 +1095,7 @@
       "id": "animate-3347585",
       "global_product_id": "animate-3347585",
       "character_id": "shikiya-yumeko",
-      "name_ja": "×ばくだん焼本舗　ダイカットステッカーセット　志喜屋 夢子",
+      "name_ja": "×ばくだん焼本舗　ダイカットステッカーセット　志喜屋夢子",
       "name_zh": "×ばくだん焼本舗　ダイカット贴纸セット　志喜屋梦子",
       "category_id": "sticker",
       "campaign_id": "bakudanyaki-collaboration-2025",
@@ -1145,7 +1145,7 @@
       "id": "animate-3347597",
       "global_product_id": "animate-3347597",
       "character_id": "shikiya-yumeko",
-      "name_ja": "×ばくだん焼本舗　お名前キーチャーム　志喜屋 夢子",
+      "name_ja": "×ばくだん焼本舗　お名前キーチャーム　志喜屋夢子",
       "name_zh": "×ばくだん焼本舗　お名前钥匙挂件　志喜屋梦子",
       "category_id": "acrylic_keychain",
       "campaign_id": "bakudanyaki-collaboration-2025",
@@ -1207,7 +1207,7 @@
       },
       "spec": {
         "size": null,
-        "material": null
+        "material": "アクリル"
       },
       "release_date": null,
       "list_price_yen": 660,
@@ -1299,7 +1299,7 @@
       "global_product_id": "animate-2990540",
       "character_id": "shikiya-yumeko",
       "name_ja": "アクリルフィギュアスタンド・志喜屋夢子",
-      "name_zh": "亚克力立牌・志喜屋梦子",
+      "name_zh": "线稿亚克力立牌 志喜屋梦子",
       "category_id": "acrylic_stand",
       "campaign_id": "chara-in-line-art",
       "manufacturer_id": "tosyo-chara-in",
@@ -2360,12 +2360,12 @@
       "notes": null
     },
     {
-      "id": "animate-3290435",
-      "global_product_id": "animate-3290435",
+      "id": "devil-block-shikiya",
+      "global_product_id": "devil-block-shikiya",
       "character_id": "shikiya-yumeko",
-      "name_ja": "ダイカットアクリルブロック（志喜屋夢子／悪魔）",
-      "name_zh": "异形亚克力砖（志喜屋梦子／恶魔）",
-      "category_id": "acrylic_stand",
+      "name_ja": "ダイカットアクリルブロック 志喜屋夢子／悪魔",
+      "name_zh": "恶魔主题 异形亚克力块 志喜屋梦子",
+      "category_id": "acrylic_art",
       "campaign_id": "curtain-damashii-angel-devil-2025",
       "manufacturer_id": "key-th-curtain-damashii",
       "variant": "志喜屋梦子",
@@ -2380,7 +2380,7 @@
       "release_date": null,
       "list_price_yen": 990,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/animate-3290435.jpg",
@@ -2401,6 +2401,11 @@
           "url": "https://www.animate-onlineshop.jp/pn/%E3%80%90%E3%82%B0%E3%83%83%E3%82%BA-%E7%BD%AE%E3%81%8D%E3%82%82%E3%81%AE%E3%80%91%E8%B2%A0%E3%81%91%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%81%8C%E5%A4%9A%E3%81%99%E3%81%8E%E3%82%8B%EF%BC%81+%E3%83%80%E3%82%A4%E3%82%AB%E3%83%83%E3%83%88%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%EF%BC%88%E5%BF%97%E5%96%9C%E5%B1%8B%E5%A4%A2%E5%AD%90%EF%BC%8F%E6%82%AA%E9%AD%94%EF%BC%89/pd/3290435/",
           "type": "retailer",
           "checked_at": "2026-10-05"
+        },
+        {
+          "url": "https://www.curtain-damashii.com/item/ablock_makeine18/",
+          "type": "official",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -2410,11 +2415,11 @@
       "notes": "Animate 商品页标注发售期：2026年02月中 発売"
     },
     {
-      "id": "animate-3290446",
-      "global_product_id": "animate-3290446",
+      "id": "devil-stand-shikiya",
+      "global_product_id": "devil-stand-shikiya",
       "character_id": "shikiya-yumeko",
-      "name_ja": "アクリルスタンド（志喜屋夢子／悪魔）",
-      "name_zh": "亚克力立牌（志喜屋梦子／恶魔）",
+      "name_ja": "アクリルスタンド 志喜屋夢子／悪魔",
+      "name_zh": "恶魔主题 亚克力立牌 志喜屋梦子",
       "category_id": "acrylic_stand",
       "campaign_id": "curtain-damashii-angel-devil-2025",
       "manufacturer_id": "key-th-curtain-damashii",
@@ -2430,7 +2435,7 @@
       "release_date": null,
       "list_price_yen": 1210,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/animate-3290446.jpg",
@@ -2451,6 +2456,11 @@
           "url": "https://www.animate-onlineshop.jp/pn/%E3%80%90%E3%82%B0%E3%83%83%E3%82%BA-%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%E3%83%9D%E3%83%83%E3%83%97%E3%80%91%E8%B2%A0%E3%81%91%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%81%8C%E5%A4%9A%E3%81%99%E3%81%8E%E3%82%8B%EF%BC%81+%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%EF%BC%88%E5%BF%97%E5%96%9C%E5%B1%8B%E5%A4%A2%E5%AD%90%EF%BC%8F%E6%82%AA%E9%AD%94%EF%BC%89/pd/3290446/",
           "type": "retailer",
           "checked_at": "2026-10-05"
+        },
+        {
+          "url": "https://www.curtain-damashii.com/item/astand_makeine18/",
+          "type": "official",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -2460,11 +2470,11 @@
       "notes": "Animate 商品页标注发售期：2026年02月中 発売"
     },
     {
-      "id": "animate-3290457",
-      "global_product_id": "animate-3290457",
+      "id": "devil-keychain-shikiya",
+      "global_product_id": "devil-keychain-shikiya",
       "character_id": "shikiya-yumeko",
-      "name_ja": "アクリルキーホルダー（志喜屋夢子／悪魔）",
-      "name_zh": "亚克力挂件（志喜屋梦子／恶魔）",
+      "name_ja": "アクリルキーホルダー 志喜屋夢子／悪魔",
+      "name_zh": "恶魔主题 亚克力挂件 志喜屋梦子",
       "category_id": "acrylic_keychain",
       "campaign_id": "curtain-damashii-angel-devil-2025",
       "manufacturer_id": "key-th-curtain-damashii",
@@ -2480,7 +2490,7 @@
       "release_date": null,
       "list_price_yen": 990,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/animate-3290457.jpg",
@@ -2501,6 +2511,11 @@
           "url": "https://www.animate-onlineshop.jp/pn/%E3%80%90%E3%82%B0%E3%83%83%E3%82%BA-%E3%82%AD%E3%83%BC%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%E3%80%91%E8%B2%A0%E3%81%91%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%81%8C%E5%A4%9A%E3%81%99%E3%81%8E%E3%82%8B%EF%BC%81+%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%82%AD%E3%83%BC%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%EF%BC%88%E5%BF%97%E5%96%9C%E5%B1%8B%E5%A4%A2%E5%AD%90%EF%BC%8F%E6%82%AA%E9%AD%94%EF%BC%89/pd/3290457/",
           "type": "retailer",
           "checked_at": "2026-10-05"
+        },
+        {
+          "url": "https://www.curtain-damashii.com/item/keyholderacr_makeine18/",
+          "type": "official",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -2510,12 +2525,12 @@
       "notes": "Animate 商品页标注发售期：2026年02月中 発売"
     },
     {
-      "id": "animate-3200806",
-      "global_product_id": "animate-3200806",
+      "id": "cider-acrylic-block-shikiya",
+      "global_product_id": "cider-acrylic-block-shikiya",
       "character_id": "shikiya-yumeko",
-      "name_ja": "アクリルブロック（志喜屋夢子／サイダー）",
-      "name_zh": "亚克力砖（志喜屋梦子／汽水）",
-      "category_id": "acrylic_stand",
+      "name_ja": "アクリルブロック 志喜屋夢子／サイダー",
+      "name_zh": "汽水主题 亚克力块 志喜屋梦子",
+      "category_id": "acrylic_art",
       "campaign_id": "curtain-damashii-cider-2025",
       "manufacturer_id": "key-th-curtain-damashii",
       "variant": "志喜屋梦子",
@@ -2530,7 +2545,7 @@
       "release_date": null,
       "list_price_yen": 990,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/animate-3200806.jpg",
@@ -2551,6 +2566,11 @@
           "url": "https://www.animate-onlineshop.jp/pn/%E3%80%90%E3%82%B0%E3%83%83%E3%82%BA-%E7%BD%AE%E3%81%8D%E3%82%82%E3%81%AE%E3%80%91%E8%B2%A0%E3%81%91%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%81%8C%E5%A4%9A%E3%81%99%E3%81%8E%E3%82%8B%EF%BC%81+%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%EF%BC%88%E5%BF%97%E5%96%9C%E5%B1%8B%E5%A4%A2%E5%AD%90%EF%BC%8F%E3%82%B5%E3%82%A4%E3%83%80%E3%83%BC%EF%BC%89/pd/3200806/",
           "type": "retailer",
           "checked_at": "2026-10-05"
+        },
+        {
+          "url": "https://www.curtain-damashii.com/item/ablock_makeine09/",
+          "type": "official",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -2560,11 +2580,11 @@
       "notes": "Animate 商品页标注发售期：2025年11月中 発売"
     },
     {
-      "id": "animate-3200815",
-      "global_product_id": "animate-3200815",
+      "id": "cider-mini-stand-shikiya",
+      "global_product_id": "cider-mini-stand-shikiya",
       "character_id": "shikiya-yumeko",
-      "name_ja": "ミニアクリルスタンド（志喜屋夢子／サイダー）",
-      "name_zh": "迷你亚克力立牌（志喜屋梦子／汽水）",
+      "name_ja": "ミニアクリルスタンド 志喜屋夢子／サイダー",
+      "name_zh": "汽水主题 迷你亚克力立牌 志喜屋梦子",
       "category_id": "acrylic_stand",
       "campaign_id": "curtain-damashii-cider-2025",
       "manufacturer_id": "key-th-curtain-damashii",
@@ -2580,7 +2600,7 @@
       "release_date": null,
       "list_price_yen": 990,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/animate-3200815.jpg",
@@ -2601,6 +2621,11 @@
           "url": "https://www.animate-onlineshop.jp/pn/%E3%80%90%E3%82%B0%E3%83%83%E3%82%BA-%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%E3%83%9D%E3%83%83%E3%83%97%E3%80%91%E8%B2%A0%E3%81%91%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%81%8C%E5%A4%9A%E3%81%99%E3%81%8E%E3%82%8B%EF%BC%81+%E3%83%9F%E3%83%8B%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%EF%BC%88%E5%BF%97%E5%96%9C%E5%B1%8B%E5%A4%A2%E5%AD%90%EF%BC%8F%E3%82%B5%E3%82%A4%E3%83%80%E3%83%BC%EF%BC%89/pd/3200815/",
           "type": "retailer",
           "checked_at": "2026-10-05"
+        },
+        {
+          "url": "https://www.curtain-damashii.com/item/astand_makeine09-mini/",
+          "type": "official",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -2610,11 +2635,11 @@
       "notes": "Animate 商品页标注发售期：2025年11月中 発売"
     },
     {
-      "id": "animate-3200824",
-      "global_product_id": "animate-3200824",
+      "id": "cider-keychain-shikiya",
+      "global_product_id": "cider-keychain-shikiya",
       "character_id": "shikiya-yumeko",
-      "name_ja": "アクリルキーホルダー（志喜屋夢子／サイダー）",
-      "name_zh": "亚克力挂件（志喜屋梦子／汽水）",
+      "name_ja": "アクリルキーホルダー 志喜屋夢子／サイダー",
+      "name_zh": "汽水主题 亚克力挂件 志喜屋梦子",
       "category_id": "acrylic_keychain",
       "campaign_id": "curtain-damashii-cider-2025",
       "manufacturer_id": "key-th-curtain-damashii",
@@ -2630,7 +2655,7 @@
       "release_date": null,
       "list_price_yen": 990,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/animate-3200824.jpg",
@@ -2651,6 +2676,11 @@
           "url": "https://www.animate-onlineshop.jp/pn/%E3%80%90%E3%82%B0%E3%83%83%E3%82%BA-%E3%82%AD%E3%83%BC%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%E3%80%91%E8%B2%A0%E3%81%91%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%81%8C%E5%A4%9A%E3%81%99%E3%81%8E%E3%82%8B%EF%BC%81+%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%82%AD%E3%83%BC%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%EF%BC%88%E5%BF%97%E5%96%9C%E5%B1%8B%E5%A4%A2%E5%AD%90%EF%BC%8F%E3%82%B5%E3%82%A4%E3%83%80%E3%83%BC%EF%BC%89/pd/3200824/",
           "type": "retailer",
           "checked_at": "2026-10-05"
+        },
+        {
+          "url": "https://www.curtain-damashii.com/item/keyholderacr_makeine09/",
+          "type": "official",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -2923,7 +2953,7 @@
       "id": "animate-3277889",
       "global_product_id": "animate-3277889",
       "character_id": "shikiya-yumeko",
-      "name_ja": "アクリルスタンドキーホルダー ＜志喜屋 夢子＞【エテルノレシ】",
+      "name_ja": "アクリルスタンドキーホルダー ＜志喜屋夢子＞【エテルノレシ】",
       "name_zh": "亚克力立牌挂件 ＜志喜屋梦子＞【エテルノレシ】",
       "category_id": "acrylic_stand",
       "campaign_id": "eterno-recit-heart",
@@ -2990,13 +3020,13 @@
       "release_date": null,
       "list_price_yen": 880,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/eternorecit-keychain-shikiya-lineup.jpg",
+          "path": "images/items/eternorecit-keychain-shikiya.jpg",
           "thumbnail_path": "images/thumbs/eternorecit-keychain-shikiya.webp",
           "role": "lineup",
-          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4582636976516_1_1759982704.jpg&width=400&height=400&square=1"
+          "source_url": "https://www.eternorecit.jp/images/collabo/2025/er05-makeine-a/ermkino021-028.jpg"
         }
       ],
       "sales": [
@@ -3008,15 +3038,15 @@
       ],
       "sources": [
         {
-          "url": "https://www.animate-onlineshop.jp/pn/pd/3277899/",
-          "type": "seller",
-          "checked_at": "2026-10-01"
+          "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
+          "type": "official",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "单人"
       ],
-      "notes": "暂用同系列官方全阵容图，待补志喜屋单品详情图。"
+      "notes": "已按 ETERNO RÉCIT 官方联动页的对应商品品类图核对。"
     },
     {
       "id": "eternorecit-mini-card-set-b",
@@ -3027,25 +3057,25 @@
       "category_id": "card",
       "campaign_id": "eterno-recit-heart",
       "manufacturer_id": "eterno-recit",
-      "variant": "月之木古都、志喜屋梦子、放虎原云雀、志喜屋梦子",
+      "variant": "月之木古都、志喜屋梦子、放虎原云雀、马剃天爱星",
       "sale_format": {
         "type": "set",
         "total_variants": 4
       },
       "spec": {
-        "size": null,
+        "size": "91×55mm",
         "material": "纸、PP"
       },
-      "release_date": "2025-07-12",
+      "release_date": "2025-09-12",
       "list_price_yen": 550,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/eternorecit-mini-card-set-b.jpg",
           "thumbnail_path": "images/thumbs/eternorecit-mini-card-set-b.webp",
           "role": "lineup",
-          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4582636976516_1_1759982704.jpg&width=400&height=400&square=1"
+          "source_url": "https://www.eternorecit.jp/images/collabo/2025/er05-makeine-a/ermkino003.jpg"
         }
       ],
       "sales": [
@@ -3059,7 +3089,7 @@
         {
           "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
           "type": "official",
-          "checked_at": "2026-10-02"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -3068,7 +3098,7 @@
         "爱心Q版",
         "志喜屋梦子"
       ],
-      "notes": "Eterno Récit 活动页原商品图链接已失效，暂用同活动官方8人阵容图。"
+      "notes": "已按 ETERNO RÉCIT 官方联动页的对应商品品类图核对。"
     },
     {
       "id": "eternorecit-nameplate-shikiya",
@@ -3091,13 +3121,13 @@
       "release_date": "2025-07-12",
       "list_price_yen": 770,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/eternorecit-nameplate-shikiya-lineup.jpg",
+          "path": "images/items/eternorecit-nameplate-shikiya.jpg",
           "thumbnail_path": "images/thumbs/eternorecit-nameplate-shikiya.webp",
           "role": "lineup",
-          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4582636976516_1_1759982704.jpg&width=400&height=400&square=1"
+          "source_url": "https://www.eternorecit.jp/images/collabo/2025/er05-makeine-a/ermkino004-011.jpg"
         }
       ],
       "sales": [
@@ -3111,7 +3141,7 @@
         {
           "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
           "type": "official",
-          "checked_at": "2026-10-02"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -3120,7 +3150,7 @@
         "爱心Q版",
         "志喜屋梦子"
       ],
-      "notes": "Eterno Récit 活动页原商品图链接已失效，暂用同活动官方8人阵容图。 暂用同系列官方全阵容图，待补志喜屋单品详情图。"
+      "notes": "已按 ETERNO RÉCIT 官方联动页的对应商品品类图核对。"
     },
     {
       "id": "eternorecit-ring-pendant-shikiya",
@@ -3143,13 +3173,13 @@
       "release_date": "2025-09-12",
       "list_price_yen": 16500,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/eternorecit-ring-pendant-shikiya.jpg",
           "thumbnail_path": "images/thumbs/eternorecit-ring-pendant-shikiya.webp",
-          "role": "lineup",
-          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4582636976516_1_1759982704.jpg&width=400&height=400&square=1"
+          "role": "product",
+          "source_url": "https://www.eternorecit.jp/images/collabo/2025/er05-makeine-a/ermkinr006_00.jpg"
         }
       ],
       "sales": [
@@ -3163,7 +3193,7 @@
         {
           "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
           "type": "official",
-          "checked_at": "2026-10-05"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -3172,7 +3202,7 @@
         "爱心Q版",
         "志喜屋梦子"
       ],
-      "notes": "Eterno Récit 官方页确认志喜屋梦子款；原单品图链接已失效，暂用同活动官方8人阵容商品图。"
+      "notes": "已按 ETERNO RÉCIT 官方联动页的对应商品品类图核对。"
     },
     {
       "id": "eternorecit-sacoche-shikiya",
@@ -3195,13 +3225,13 @@
       "release_date": "2025-09-12",
       "list_price_yen": 3300,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/eternorecit-sacoche-shikiya.jpg",
           "thumbnail_path": "images/thumbs/eternorecit-sacoche-shikiya.webp",
           "role": "lineup",
-          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4582636976516_1_1759982704.jpg&width=400&height=400&square=1"
+          "source_url": "https://www.eternorecit.jp/images/collabo/2025/er05-makeine-a/ermkino029-034.jpg"
         }
       ],
       "sales": [
@@ -3215,7 +3245,7 @@
         {
           "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
           "type": "official",
-          "checked_at": "2026-10-05"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -3224,7 +3254,7 @@
         "爱心Q版",
         "志喜屋梦子"
       ],
-      "notes": "官方页确认全6款含志喜屋梦子；原商品图链接已失效，暂用同活动官方8人阵容商品图。"
+      "notes": "已按 ETERNO RÉCIT 官方联动页的对应商品品类图核对。"
     },
     {
       "id": "eternorecit-stickers",
@@ -3247,13 +3277,13 @@
       "release_date": null,
       "list_price_yen": 770,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/eternorecit-stickers.jpg",
+          "thumbnail_path": "images/thumbs/eternorecit-stickers.webp",
           "role": "lineup",
-          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4582636976622_1_1759982706.jpg&width=400&height=400&square=1",
-          "thumbnail_path": "images/thumbs/eternorecit-stickers.webp"
+          "source_url": "https://www.eternorecit.jp/images/collabo/2025/er05-makeine-a/ermkino012.jpg"
         }
       ],
       "sales": [
@@ -3265,15 +3295,15 @@
       ],
       "sources": [
         {
-          "url": "https://www.animate-onlineshop.jp/pn/pd/3277883/",
-          "type": "seller",
-          "checked_at": "2026-10-01"
+          "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
+          "type": "official",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "套装"
       ],
-      "notes": null
+      "notes": "已按 ETERNO RÉCIT 官方联动页的对应商品品类图核对。"
     },
     {
       "id": "eternorecit-trading-badge",
@@ -3296,13 +3326,13 @@
       "release_date": null,
       "list_price_yen": 550,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/eternorecit-trading-badge.jpg",
+          "thumbnail_path": "images/thumbs/eternorecit-trading-badge.webp",
           "role": "lineup",
-          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4582636976516_1_1759982704.jpg&width=400&height=400&square=1",
-          "thumbnail_path": "images/thumbs/eternorecit-trading-badge.webp"
+          "source_url": "https://www.eternorecit.jp/images/collabo/2025/er05-makeine-a/ermkino001.jpg"
         }
       ],
       "sales": [
@@ -3314,15 +3344,15 @@
       ],
       "sources": [
         {
-          "url": "https://www.animate-onlineshop.jp/pn/pd/3277872/",
-          "type": "seller",
-          "checked_at": "2026-10-01"
+          "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
+          "type": "official",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "随机"
       ],
-      "notes": null
+      "notes": "已按 ETERNO RÉCIT 官方联动页的对应商品品类图核对。"
     },
     {
       "id": "eternorecit-tshirt-shikiya",
@@ -4568,7 +4598,7 @@
       "id": "animate-3342608",
       "global_product_id": "animate-3342608",
       "character_id": "shikiya-yumeko",
-      "name_ja": "描き下ろし 志喜屋 夢子 駅員ver. 第2弾 特大アクリルスタンド",
+      "name_ja": "描き下ろし 志喜屋夢子 駅員ver. 第2弾 特大アクリルスタンド",
       "name_zh": "JR东海站员第二弹 特大亚克力立牌 志喜屋梦子",
       "category_id": "acrylic_stand",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
@@ -4618,7 +4648,7 @@
       "id": "animate-3342611",
       "global_product_id": "animate-3342611",
       "character_id": "shikiya-yumeko",
-      "name_ja": "描き下ろし 志喜屋 夢子 駅員ver. 第2弾 BIGアクリルスタンド",
+      "name_ja": "描き下ろし 志喜屋夢子 駅員ver. 第2弾 BIGアクリルスタンド",
       "name_zh": "JR东海站员第二弹 BIG亚克力立牌 志喜屋梦子",
       "category_id": "acrylic_stand",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
@@ -4668,7 +4698,7 @@
       "id": "animate-3342619",
       "global_product_id": "animate-3342619",
       "character_id": "shikiya-yumeko",
-      "name_ja": "描き下ろし 志喜屋 夢子 駅員ver. 第2弾 2連ワイヤーBIGアクリルキーホルダー",
+      "name_ja": "描き下ろし 志喜屋夢子 駅員ver. 第2弾 2連ワイヤーBIGアクリルキーホルダー",
       "name_zh": "JR东海站员第二弹 双联钢丝大型亚克力挂件 志喜屋梦子",
       "category_id": "acrylic_keychain",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
@@ -4718,7 +4748,7 @@
       "id": "animate-3342627",
       "global_product_id": "animate-3342627",
       "character_id": "shikiya-yumeko",
-      "name_ja": "描き下ろし 志喜屋 夢子 駅員ver. 第2弾 ダイカットステッカー",
+      "name_ja": "描き下ろし 志喜屋夢子 駅員ver. 第2弾 ダイカットステッカー",
       "name_zh": "JR东海站员第二弹 异形贴纸 志喜屋梦子",
       "category_id": "sticker",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
@@ -5168,7 +5198,7 @@
       "id": "kujicolle-christmas-2025-a-shikiya-yumeko",
       "global_product_id": "kujicolle-christmas-2025-a-shikiya-yumeko",
       "character_id": "shikiya-yumeko",
-      "name_ja": "A-05賞 アクリルスタンド 志喜屋 夢子",
+      "name_ja": "A-05賞 アクリルスタンド 志喜屋夢子",
       "name_zh": "圣诞 Q 版网络抽奖 A-05奖 亚克力立牌 志喜屋梦子",
       "category_id": "acrylic_stand",
       "campaign_id": "kujicolle-christmas-2025",
@@ -5221,7 +5251,7 @@
       "id": "kujicolle-christmas-2025-b-shikiya-yumeko",
       "global_product_id": "kujicolle-christmas-2025-b-shikiya-yumeko",
       "character_id": "shikiya-yumeko",
-      "name_ja": "B-05賞 アクリルキーホルダー 志喜屋 夢子",
+      "name_ja": "B-05賞 アクリルキーホルダー 志喜屋夢子",
       "name_zh": "圣诞 Q 版网络抽奖 B-05奖 亚克力挂件 志喜屋梦子",
       "category_id": "acrylic_keychain",
       "campaign_id": "kujicolle-christmas-2025",
@@ -5274,7 +5304,7 @@
       "id": "kujicolle-christmas-2025-c-shikiya-yumeko",
       "global_product_id": "kujicolle-christmas-2025-c-shikiya-yumeko",
       "character_id": "shikiya-yumeko",
-      "name_ja": "C-05賞 缶バッジ 志喜屋 夢子",
+      "name_ja": "C-05賞 缶バッジ 志喜屋夢子",
       "name_zh": "圣诞 Q 版网络抽奖 C-05奖 徽章 志喜屋梦子",
       "category_id": "can_badge",
       "campaign_id": "kujicolle-christmas-2025",
@@ -5441,7 +5471,7 @@
       "variant": "随机9款包含志喜屋梦子",
       "sale_format": {
         "type": "random",
-        "total_variants": 9
+        "total_variants": 8
       },
       "spec": {
         "size": "高约50mm",
@@ -5779,13 +5809,13 @@
       "release_date": null,
       "list_price_yen": 825,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/thechara-shrine-microfiber-shikiya-lineup.jpg",
+          "path": "images/items/thechara-shrine-microfiber-shikiya.jpg",
           "thumbnail_path": "images/thumbs/thechara-shrine-microfiber-shikiya.webp",
-          "role": "lineup",
-          "source_url": "https://www.gamers.co.jp/upload/save_image/09101512_6aa24a39a4cec.jpg"
+          "role": "product",
+          "source_url": "https://www.gamers.co.jp/upload/save_image/09101515_6aa24b056380e.jpg"
         }
       ],
       "sales": [
@@ -5799,14 +5829,14 @@
         {
           "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7943",
           "type": "official",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "巫女舞",
         "学生会"
       ],
-      "notes": "暂用同系列官方全阵容图，待补志喜屋单品详情图。"
+      "notes": "已按 Gamers 官方巫女舞活动页的角色与商品品类逐项核对。"
     },
     {
       "id": "thechara-shrine-mini-art",
@@ -5879,13 +5909,13 @@
       "release_date": null,
       "list_price_yen": 2420,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/thechara-shrine-stand-shikiya-lineup.jpg",
+          "path": "images/items/thechara-shrine-stand-shikiya.jpg",
           "thumbnail_path": "images/thumbs/thechara-shrine-stand-shikiya.webp",
-          "role": "lineup",
-          "source_url": "https://www.gamers.co.jp/upload/save_image/09101512_6aa24a39a4cec.jpg"
+          "role": "product",
+          "source_url": "https://www.gamers.co.jp/upload/save_image/09101514_6aa24aa86c8eb.jpg"
         }
       ],
       "sales": [
@@ -5899,14 +5929,14 @@
         {
           "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7943",
           "type": "official",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "巫女舞",
         "学生会"
       ],
-      "notes": "暂用同系列官方全阵容图，待补志喜屋单品详情图。"
+      "notes": "已按 Gamers 官方巫女舞活动页的角色与商品品类逐项核对。"
     },
     {
       "id": "thechara-shrine-tapestry-shikiya",
@@ -5929,13 +5959,13 @@
       "release_date": null,
       "list_price_yen": 8800,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/thechara-shrine-tapestry-shikiya-lineup.jpg",
+          "path": "images/items/thechara-shrine-tapestry-shikiya.jpg",
           "thumbnail_path": "images/thumbs/thechara-shrine-tapestry-shikiya.webp",
-          "role": "lineup",
-          "source_url": "https://www.gamers.co.jp/upload/save_image/09101512_6aa24a39a4cec.jpg"
+          "role": "product",
+          "source_url": "https://www.gamers.co.jp/upload/save_image/09101511_6aa24a086f972.jpg"
         }
       ],
       "sales": [
@@ -5949,14 +5979,14 @@
         {
           "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7943",
           "type": "official",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "巫女舞",
         "学生会"
       ],
-      "notes": "暂用同系列官方全阵容图，待补志喜屋单品详情图。"
+      "notes": "已按 Gamers 官方巫女舞活动页的角色与商品品类逐项核对。"
     },
     {
       "id": "thechara-shrine-woodstrap-shikiya",
@@ -5979,13 +6009,13 @@
       "release_date": null,
       "list_price_yen": 770,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/thechara-shrine-woodstrap-shikiya-lineup.jpg",
+          "path": "images/items/thechara-shrine-woodstrap-shikiya.jpg",
           "thumbnail_path": "images/thumbs/thechara-shrine-woodstrap-shikiya.webp",
-          "role": "lineup",
-          "source_url": "https://www.gamers.co.jp/upload/save_image/09101512_6aa24a39a4cec.jpg"
+          "role": "product",
+          "source_url": "https://www.gamers.co.jp/upload/save_image/09101512_6aa24a6479b33.jpg"
         }
       ],
       "sales": [
@@ -5999,14 +6029,14 @@
         {
           "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7943",
           "type": "official",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "巫女舞",
         "学生会"
       ],
-      "notes": "暂用同系列官方全阵容图，待补志喜屋单品详情图。"
+      "notes": "已按 Gamers 官方巫女舞活动页的角色与商品品类逐项核对。"
     },
     {
       "id": "amnibus-nonhoi-chibi-badge",
@@ -6981,21 +7011,21 @@
       "variant": "志喜屋梦子款包含在随机阵容中",
       "sale_format": {
         "type": "random",
-        "total_variants": null
+        "total_variants": 9
       },
       "spec": {
         "size": null,
         "material": null
       },
-      "release_date": null,
+      "release_date": "2026-02-18",
       "list_price_yen": 500,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/gagaga-J20250040.jpg",
           "thumbnail_path": "images/thumbs/gagaga-J20250040.webp",
-          "role": "product",
+          "role": "lineup",
           "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20250040-01.jpg"
         }
       ],
@@ -7010,7 +7040,7 @@
         {
           "url": "https://lifetunes-mall.jp/shop/g/gJ20250040/",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -7018,7 +7048,7 @@
         "GAGAGA SHOP",
         "志喜屋梦子"
       ],
-      "notes": null
+      "notes": "官方商品页确认盲抽规格；商品图为全9种阵容。"
     },
     {
       "id": "gagaga-J20250043",
@@ -7187,7 +7217,7 @@
         "total_variants": null
       },
       "spec": {
-        "size": null,
+        "size": "A4",
         "material": null
       },
       "release_date": null,
@@ -7244,13 +7274,13 @@
       "release_date": "2025-12-18",
       "list_price_yen": 495,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/tapioca-kurumi-badge-shikiya.jpg",
+          "path": "images/items/tapioca-kurumi-badge-shikiya.jpeg",
           "thumbnail_path": "images/thumbs/tapioca-kurumi-badge-shikiya.webp",
           "role": "product",
-          "source_url": "https://shibuyatsutaya.tsite.jp/editor_files/article/000/001/606/article_body/img_20251112111318_010.jpeg"
+          "source_url": "https://shibuyatsutaya.tsite.jp/editor_files/article/000/001/606/article_body/img_20251112111318_013.jpeg"
         }
       ],
       "sales": [
@@ -7264,7 +7294,7 @@
         {
           "url": "https://shibuyatsutaya.tsite.jp/article/1606.html",
           "type": "official",
-          "checked_at": "2026-10-05"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -7272,7 +7302,7 @@
         "Tapioca",
         "志喜屋梦子"
       ],
-      "notes": null
+      "notes": "已核对 SHIBUYA TSUTAYA 官方活动页的角色单品图。"
     },
     {
       "id": "tapioca-kurumi-tapinui-shikiya",
@@ -7295,13 +7325,13 @@
       "release_date": "2025-12-18",
       "list_price_yen": 1100,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/tapioca-kurumi-tapinui-shikiya.jpg",
+          "path": "images/items/tapioca-kurumi-tapinui-shikiya.jpeg",
           "thumbnail_path": "images/thumbs/tapioca-kurumi-tapinui-shikiya.webp",
           "role": "product",
-          "source_url": "https://shibuyatsutaya.tsite.jp/editor_files/article/000/001/606/article_body/img_20251112105642_005.jpeg"
+          "source_url": "https://shibuyatsutaya.tsite.jp/editor_files/article/000/001/606/article_body/img_20251112105642_008.jpeg"
         }
       ],
       "sales": [
@@ -7315,7 +7345,7 @@
         {
           "url": "https://shibuyatsutaya.tsite.jp/article/1606.html",
           "type": "official",
-          "checked_at": "2026-10-05"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -7323,7 +7353,7 @@
         "Tapioca",
         "志喜屋梦子"
       ],
-      "notes": "官方全7款阵容明确包含志喜屋梦子。"
+      "notes": "已核对 SHIBUYA TSUTAYA 官方活动页的角色单品图。"
     },
     {
       "id": "tapioca-postcard-bonus-group",
@@ -7482,7 +7512,7 @@
       "id": "animate-3604775",
       "global_product_id": "animate-3604775",
       "character_id": "shikiya-yumeko",
-      "name_ja": "ちょいデカアクリルキーホルダー 志喜屋 夢子 平成ギャルver.",
+      "name_ja": "ちょいデカアクリルキーホルダー 志喜屋夢子 平成ギャルver.",
       "name_zh": "平成辣妹 稍大亚克力挂件 志喜屋梦子",
       "category_id": "acrylic_keychain",
       "campaign_id": "tsutaya-heisei-gyaru-2026",
@@ -7532,7 +7562,7 @@
       "id": "animate-3604781",
       "global_product_id": "animate-3604781",
       "character_id": "shikiya-yumeko",
-      "name_ja": "缶バッジ 志喜屋 夢子 平成ギャルver.",
+      "name_ja": "缶バッジ 志喜屋夢子 平成ギャルver.",
       "name_zh": "平成辣妹 徽章 志喜屋梦子",
       "category_id": "can_badge",
       "campaign_id": "tsutaya-heisei-gyaru-2026",
@@ -7582,7 +7612,7 @@
       "id": "animate-3604787",
       "global_product_id": "animate-3604787",
       "character_id": "shikiya-yumeko",
-      "name_ja": "アクリルスタンド 志喜屋 夢子 平成ギャルver.",
+      "name_ja": "アクリルスタンド 志喜屋夢子 平成ギャルver.",
       "name_zh": "平成辣妹 亚克力立牌 志喜屋梦子",
       "category_id": "acrylic_stand",
       "campaign_id": "tsutaya-heisei-gyaru-2026",
@@ -7632,7 +7662,7 @@
       "id": "animate-3604792",
       "global_product_id": "animate-3604792",
       "character_id": "shikiya-yumeko",
-      "name_ja": "ミニスタンド 志喜屋 夢子 平成ギャルver.",
+      "name_ja": "ミニスタンド 志喜屋夢子 平成ギャルver.",
       "name_zh": "平成辣妹 迷你立牌 志喜屋梦子",
       "category_id": "acrylic_stand",
       "campaign_id": "tsutaya-heisei-gyaru-2026",
@@ -7682,7 +7712,7 @@
       "id": "animate-3604797",
       "global_product_id": "animate-3604797",
       "character_id": "shikiya-yumeko",
-      "name_ja": "クリアファイル 志喜屋 夢子 平成ギャルver.",
+      "name_ja": "クリアファイル 志喜屋夢子 平成ギャルver.",
       "name_zh": "平成辣妹 透明文件夹 志喜屋梦子",
       "category_id": "clear_file",
       "campaign_id": "tsutaya-heisei-gyaru-2026",
@@ -7732,7 +7762,7 @@
       "id": "animate-3604802",
       "global_product_id": "animate-3604802",
       "character_id": "shikiya-yumeko",
-      "name_ja": "スリムタペストリー 志喜屋 夢子 平成ギャルver.",
+      "name_ja": "スリムタペストリー 志喜屋夢子 平成ギャルver.",
       "name_zh": "平成辣妹 窄幅挂毯 志喜屋梦子",
       "category_id": "tapestry",
       "campaign_id": "tsutaya-heisei-gyaru-2026",
@@ -8046,8 +8076,8 @@
       "id": "thechara-fes-board-shikiya",
       "global_product_id": "thechara-fes-board-shikiya",
       "character_id": "shikiya-yumeko",
-      "name_ja": "超特大ダイカットアクリルボード 志喜屋夢子 TSUWABUKI FES ver.",
-      "name_zh": "TSUWABUKI FES 超特大异形亚克力板 志喜屋梦子",
+      "name_ja": "特大ダイカットアクリルボード 志喜屋夢子 TSUWABUKI FES ver.",
+      "name_zh": "TSUWABUKI FES 特大异形亚克力板 志喜屋梦子",
       "category_id": "acrylic_art",
       "campaign_id": "tsuwabuki-fes",
       "manufacturer_id": "contents-seed",
@@ -8063,34 +8093,34 @@
       "release_date": null,
       "list_price_yen": 5500,
       "official_status": "official",
-      "verification": "seller_claim",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/thechara-fes-board-shikiya-lineup.jpg",
+          "path": "images/items/thechara-fes-board-shikiya.jpg",
           "thumbnail_path": "images/thumbs/thechara-fes-board-shikiya.webp",
-          "role": "lineup",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06031134_683e5f1fd50ee.jpg&width=1200&height=630"
+          "role": "product",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06031145_683e61e4e084f.jpg&width=1200&height=630"
         }
       ],
       "sales": [
         {
           "seller": "コンテンツシード",
           "phase": "general_sale",
-          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04638200"
+          "url": "https://www.gamers.co.jp/pn/pd/10805320/"
         }
       ],
       "sources": [
         {
-          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04638200",
+          "url": "https://www.gamers.co.jp/pn/pd/10805320/",
           "type": "seller",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "TSUWABUKI FES",
         "单人"
       ],
-      "notes": "暂用同系列官方全阵容图，待补志喜屋单品详情图。"
+      "notes": "已按 Gamers 原商品页的角色单品图核对。"
     },
     {
       "id": "thechara-fes-bromide-shikiya",
@@ -8104,7 +8134,7 @@
       "variant": "志喜屋梦子（活动特典）",
       "sale_format": {
         "type": "random",
-        "total_variants": 7
+        "total_variants": 9
       },
       "spec": {
         "size": null,
@@ -8113,27 +8143,27 @@
       "release_date": "2025-08-20",
       "list_price_yen": null,
       "official_status": "official",
-      "verification": "seller_claim",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/thechara-fes-bromide-shikiya-lineup.jpg",
+          "path": "images/items/source-8217078d1c3848dd5774.jpg",
           "thumbnail_path": "images/thumbs/thechara-fes-bromide-shikiya.webp",
           "role": "lineup",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06031134_683e5f1fd50ee.jpg&width=1200&height=630"
+          "source_url": "https://asset.watch.impress.co.jp/img/gmw/docs/2008/039/0_l.jpg"
         }
       ],
       "sales": [
         {
           "seller": "コンテンツシード",
           "phase": "purchase_bonus",
-          "url": "https://www.gamers.co.jp/pn/pd/10805297/"
+          "url": "https://game.watch.impress.co.jp/docs/news/2008039.html"
         }
       ],
       "sources": [
         {
-          "url": "https://www.gamers.co.jp/pn/pd/10805297/",
+          "url": "https://game.watch.impress.co.jp/docs/news/2008039.html",
           "type": "secondary",
-          "checked_at": "2026-10-02"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -8141,7 +8171,7 @@
         "TSUWABUKI FES",
         "志喜屋梦子"
       ],
-      "notes": "活动特典/抽选品，非单独销售；二级市场实物记录与官方7人商品阵容交叉确认。 暂用同系列官方全阵容图，待补志喜屋单品详情图。"
+      "notes": "活动满额特典，非单独销售；活动宣传图明确列出全9种照片卡。"
     },
     {
       "id": "thechara-fes-clock-student-council",
@@ -8264,27 +8294,27 @@
       "release_date": null,
       "list_price_yen": 2750,
       "official_status": "official",
-      "verification": "seller_claim",
+      "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/thechara-fes-holo-stand-shikiya-lineup.jpg",
+          "path": "images/items/thechara-fes-holo-stand-shikiya.jpg",
           "thumbnail_path": "images/thumbs/thechara-fes-holo-stand-shikiya.webp",
-          "role": "lineup",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06031134_683e5f1fd50ee.jpg&width=1200&height=630"
+          "role": "product",
+          "source_url": "https://img.amiami.jp/images/product/main/252/GOODS-04638191.jpg"
         }
       ],
       "sales": [
         {
           "seller": "コンテンツシード",
           "phase": "general_sale",
-          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04638193"
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04638191"
         }
       ],
       "sources": [
         {
-          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04638193",
-          "type": "seller",
-          "checked_at": "2026-10-01"
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04638191",
+          "type": "official_retail",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -8314,34 +8344,34 @@
       "release_date": null,
       "list_price_yen": 1375,
       "official_status": "official",
-      "verification": "seller_claim",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/thechara-fes-keychain-shikiya-lineup.jpg",
+          "path": "images/items/thechara-fes-keychain-shikiya.jpg",
           "thumbnail_path": "images/thumbs/thechara-fes-keychain-shikiya.webp",
-          "role": "lineup",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06031134_683e5f1fd50ee.jpg&width=1200&height=630"
+          "role": "product",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06031136_683e5fc4d4a07.jpg&width=1200&height=630"
         }
       ],
       "sales": [
         {
           "seller": "コンテンツシード",
           "phase": "general_sale",
-          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04638182"
+          "url": "https://www.gamers.co.jp/pn/pd/10805302/"
         }
       ],
       "sources": [
         {
-          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04638182",
+          "url": "https://www.gamers.co.jp/pn/pd/10805302/",
           "type": "seller",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "TSUWABUKI FES",
         "单人"
       ],
-      "notes": "暂用同系列官方全阵容图，待补志喜屋单品详情图。"
+      "notes": "已按 Gamers 原商品页的角色单品图核对。"
     },
     {
       "id": "thechara-fes-lottery-figure-shikiya",
@@ -8364,27 +8394,27 @@
       "release_date": "2025-08-20",
       "list_price_yen": null,
       "official_status": "official",
-      "verification": "seller_claim",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/thechara-fes-lottery-figure-shikiya-lineup.jpg",
+          "path": "images/items/source-8217078d1c3848dd5774.jpg",
           "thumbnail_path": "images/thumbs/thechara-fes-lottery-figure-shikiya.webp",
           "role": "lineup",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06031134_683e5f1fd50ee.jpg&width=1200&height=630"
+          "source_url": "https://asset.watch.impress.co.jp/img/gmw/docs/2008/039/0_l.jpg"
         }
       ],
       "sales": [
         {
           "seller": "コンテンツシード",
           "phase": "lottery_prize",
-          "url": "https://www.gamers.co.jp/pn/pd/10805297/"
+          "url": "https://game.watch.impress.co.jp/docs/news/2008039.html"
         }
       ],
       "sources": [
         {
-          "url": "https://www.gamers.co.jp/pn/pd/10805297/",
+          "url": "https://game.watch.impress.co.jp/docs/news/2008039.html",
           "type": "secondary",
-          "checked_at": "2026-10-02"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -8392,7 +8422,7 @@
         "TSUWABUKI FES",
         "志喜屋梦子"
       ],
-      "notes": "活动特典/抽选品，非单独销售；二级市场实物记录与官方7人商品阵容交叉确认。 暂用同系列官方全阵容图，待补志喜屋单品详情图。"
+      "notes": "活动抽奖品，非单独销售；活动宣传图明确列出全7种特大亚克力立牌。"
     },
     {
       "id": "thechara-fes-memorial-art-student-council",
@@ -8466,34 +8496,34 @@
       "release_date": null,
       "list_price_yen": 770,
       "official_status": "official",
-      "verification": "seller_claim",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/thechara-fes-microfiber-shikiya-lineup.jpg",
+          "path": "images/items/thechara-fes-microfiber-shikiya.jpg",
           "thumbnail_path": "images/thumbs/thechara-fes-microfiber-shikiya.webp",
-          "role": "lineup",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06031134_683e5f1fd50ee.jpg&width=1200&height=630"
+          "role": "product",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06031150_683e62e7d67c5.jpg&width=1200&height=630"
         }
       ],
       "sales": [
         {
           "seller": "コンテンツシード",
           "phase": "general_sale",
-          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04638207"
+          "url": "https://www.gamers.co.jp/pn/pd/10805327/"
         }
       ],
       "sources": [
         {
-          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04638207",
+          "url": "https://www.gamers.co.jp/pn/pd/10805327/",
           "type": "seller",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "TSUWABUKI FES",
         "单人"
       ],
-      "notes": "暂用同系列官方全阵容图，待补志喜屋单品详情图。"
+      "notes": "已按 Gamers 原商品页的角色单品图核对。"
     },
     {
       "id": "thechara-fes-mini-art-student-council",
@@ -8566,34 +8596,34 @@
       "release_date": null,
       "list_price_yen": 7700,
       "official_status": "official",
-      "verification": "seller_claim",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/thechara-fes-tapestry-shikiya-lineup.jpg",
+          "path": "images/items/thechara-fes-tapestry-shikiya.jpg",
           "thumbnail_path": "images/thumbs/thechara-fes-tapestry-shikiya.webp",
-          "role": "lineup",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06031134_683e5f1fd50ee.jpg&width=1200&height=630"
+          "role": "product",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06031155_683e6418b8dd9.jpg&width=1200&height=630"
         }
       ],
       "sales": [
         {
           "seller": "コンテンツシード",
           "phase": "general_sale",
-          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04638216"
+          "url": "https://www.gamers.co.jp/pn/pd/10805336/"
         }
       ],
       "sources": [
         {
-          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04638216",
+          "url": "https://www.gamers.co.jp/pn/pd/10805336/",
           "type": "seller",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "TSUWABUKI FES",
         "单人"
       ],
-      "notes": "暂用同系列官方全阵容图，待补志喜屋单品详情图。"
+      "notes": "已按 Gamers 原商品页的角色单品图核对。"
     },
     {
       "id": "thechara-fes-tshirt-student-council",
@@ -8670,9 +8700,9 @@
       "images": [
         {
           "path": "images/items/thechara-pale-badge.jpg",
-          "role": "lineup",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06181247_6a336a4d08052.jpg&width=1200&height=630",
-          "thumbnail_path": "images/thumbs/thechara-pale-badge.webp"
+          "thumbnail_path": "images/thumbs/thechara-pale-badge.webp",
+          "role": "product",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/69812/838/69812-838-7600b8cee41e7ec8f09dfe719c65cee2-800x800.jpg"
         }
       ],
       "sales": [
@@ -8684,9 +8714,9 @@
       ],
       "sources": [
         {
-          "url": "https://www.gamers.co.jp/pn/pd/10907440/",
-          "type": "seller",
-          "checked_at": "2026-10-01"
+          "url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html",
+          "type": "official",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -8716,13 +8746,13 @@
       "release_date": null,
       "list_price_yen": null,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/thechara-pale-bromide-shikiya-lineup.jpg",
+          "path": "images/items/thechara-pale-bromide-shikiya.jpg",
           "thumbnail_path": "images/thumbs/thechara-pale-bromide-shikiya.webp",
           "role": "lineup",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06181247_6a336a4d08052.jpg&width=1200&height=630"
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/69812/838/69812-838-9fcfb15edd2c0b3aceb407036f7268fc-2000x1414.jpg"
         }
       ],
       "sales": [
@@ -8736,7 +8766,7 @@
         {
           "url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html",
           "type": "official",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -8744,7 +8774,7 @@
         "购入特典",
         "非卖品"
       ],
-      "notes": "活动期间店铺每购买3,000日元随机赠送1枚；官方特典图确认共9款并含天爱星。 暂用同系列官方全阵容图，待补志喜屋单品详情图。"
+      "notes": "已按同活动的官方商品品类图与其他角色项目交叉核对。"
     },
     {
       "id": "thechara-pale-deskmat",
@@ -8820,10 +8850,10 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/thechara-pale-keychain-shikiya-lineup.jpg",
+          "path": "images/items/thechara-pale-keychain-shikiya.jpg",
           "thumbnail_path": "images/thumbs/thechara-pale-keychain-shikiya.webp",
-          "role": "lineup",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06181247_6a336a4d08052.jpg&width=1200&height=630"
+          "role": "product",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/69812/838/69812-838-03e5bad2e1da5757f2b4128449646d23-800x800.jpg"
         }
       ],
       "sales": [
@@ -8835,14 +8865,9 @@
       ],
       "sources": [
         {
-          "url": "https://www.the-chara.com/view/search?page=5&search_category=ct2923",
-          "type": "manufacturer",
-          "checked_at": "2026-10-01"
-        },
-        {
-          "url": "https://www.gamers.co.jp/pn/pd/10907447/",
-          "type": "seller",
-          "checked_at": "2026-10-01"
+          "url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html",
+          "type": "official",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -8873,13 +8898,13 @@
       "release_date": null,
       "list_price_yen": null,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/thechara-pale-lottery-figure-shikiya-lineup.jpg",
+          "path": "images/items/thechara-pale-lottery-figure-shikiya.jpg",
           "thumbnail_path": "images/thumbs/thechara-pale-lottery-figure-shikiya.webp",
           "role": "lineup",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06181247_6a336a4d08052.jpg&width=1200&height=630"
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/69812/838/69812-838-9fcfb15edd2c0b3aceb407036f7268fc-2000x1414.jpg"
         }
       ],
       "sales": [
@@ -8893,7 +8918,7 @@
         {
           "url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html",
           "type": "official",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -8901,7 +8926,7 @@
         "抽奖",
         "非卖品"
       ],
-      "notes": "活动购买者可参加特大竖牌抽奖；官方图确认全7款并含天爱星。 暂用同系列官方全阵容图，待补志喜屋单品详情图。"
+      "notes": "已按同活动的官方商品品类图与其他角色项目交叉核对。"
     },
     {
       "id": "thechara-pale-memorial-art",
@@ -8977,10 +9002,10 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/thechara-pale-microfiber-shikiya-lineup.jpg",
+          "path": "images/items/thechara-pale-microfiber-shikiya.jpg",
           "thumbnail_path": "images/thumbs/thechara-pale-microfiber-shikiya.webp",
-          "role": "lineup",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06181247_6a336a4d08052.jpg&width=1200&height=630"
+          "role": "product",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/69812/838/69812-838-d0515c45f46168109a556cf486e03e9e-800x800.jpg"
         }
       ],
       "sales": [
@@ -8992,14 +9017,9 @@
       ],
       "sources": [
         {
-          "url": "https://www.the-chara.com/view/search?page=5&search_category=ct2923",
-          "type": "manufacturer",
-          "checked_at": "2026-10-01"
-        },
-        {
-          "url": "https://www.gamers.co.jp/pn/pd/10907464/",
-          "type": "seller",
-          "checked_at": "2026-10-01"
+          "url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html",
+          "type": "official",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -9083,10 +9103,10 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/thechara-pale-stand-shikiya-lineup.jpg",
+          "path": "images/items/thechara-pale-stand-shikiya.jpg",
           "thumbnail_path": "images/thumbs/thechara-pale-stand-shikiya.webp",
-          "role": "lineup",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06181247_6a336a4d08052.jpg&width=1200&height=630"
+          "role": "product",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/69812/838/69812-838-da40a66e309fb46972f60a6ae15b6dcc-800x800.jpg"
         }
       ],
       "sales": [
@@ -9098,14 +9118,9 @@
       ],
       "sources": [
         {
-          "url": "https://www.the-chara.com/view/search?page=5&search_category=ct2923",
-          "type": "manufacturer",
-          "checked_at": "2026-10-01"
-        },
-        {
-          "url": "https://www.gamers.co.jp/pn/pd/10907454/",
-          "type": "seller",
-          "checked_at": "2026-10-01"
+          "url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html",
+          "type": "official",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -9139,10 +9154,10 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/thechara-pale-tapestry-shikiya-lineup.jpg",
+          "path": "images/items/thechara-pale-tapestry-shikiya.jpg",
           "thumbnail_path": "images/thumbs/thechara-pale-tapestry-shikiya.webp",
-          "role": "lineup",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06181247_6a336a4d08052.jpg&width=1200&height=630"
+          "role": "product",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/69812/838/69812-838-89db8191d24bf0399d1bd811aef20e51-800x800.jpg"
         }
       ],
       "sales": [
@@ -9154,9 +9169,9 @@
       ],
       "sources": [
         {
-          "url": "https://www.gamers.co.jp/pn/pd/10907471/",
-          "type": "seller",
-          "checked_at": "2026-10-01"
+          "url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html",
+          "type": "official",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -9286,13 +9301,13 @@
       "release_date": null,
       "list_price_yen": null,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/thechara-valentine-bromide-shikiya-lineup.jpg",
+          "path": "images/items/thechara-valentine-bromide-shikiya.jpg",
           "thumbnail_path": "images/thumbs/thechara-valentine-bromide-shikiya.webp",
-          "role": "lineup",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=01271413_69784997b48cb.jpg&width=1200&height=630"
+          "role": "bonus",
+          "source_url": "https://anime-press.net/wp-content/uploads/2026/02/01051459_695b5359de676.jpg"
         }
       ],
       "sales": [
@@ -9306,7 +9321,7 @@
         {
           "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7160",
           "type": "official",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -9314,7 +9329,7 @@
         "购入特典",
         "非卖品"
       ],
-      "notes": "每购买活动商品3,000日元随机赠送1枚；图片为同系列角色图参考。 暂用同系列官方全阵容图，待补志喜屋单品详情图。"
+      "notes": "采用活动满额特典七款照片卡完整总览图。"
     },
     {
       "id": "thechara-valentine-clock",
@@ -9437,13 +9452,13 @@
       "release_date": null,
       "list_price_yen": 990,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/thechara-valentine-keychain-shikiya-lineup.jpg",
+          "path": "images/items/thechara-valentine-keychain-shikiya.jpg",
           "thumbnail_path": "images/thumbs/thechara-valentine-keychain-shikiya.webp",
-          "role": "lineup",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=01271413_69784997b48cb.jpg&width=1200&height=630"
+          "role": "product",
+          "source_url": "https://img.amiami.jp/images/product/main/262/GOODS-04809739.jpg"
         }
       ],
       "sales": [
@@ -9462,12 +9477,12 @@
         {
           "url": "https://www.the-chara.com/view/search?page=2&search_category=ct3",
           "type": "manufacturer",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         },
         {
           "url": "https://www.gamers.co.jp/pn/pd/10870399/",
           "type": "seller",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -9475,7 +9490,7 @@
         "镭射",
         "单人"
       ],
-      "notes": "资料图待补 暂用同系列官方全阵容图，待补志喜屋单品详情图。"
+      "notes": "已核对 AmiAmi 商品页的角色单品图与官方活动阵容。"
     },
     {
       "id": "thechara-valentine-lottery-figure-shikiya",
@@ -9498,13 +9513,13 @@
       "release_date": null,
       "list_price_yen": null,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/thechara-valentine-lottery-figure-shikiya-lineup.jpg",
+          "path": "images/items/thechara-valentine-lottery-figure-shikiya.jpg",
           "thumbnail_path": "images/thumbs/thechara-valentine-lottery-figure-shikiya.webp",
           "role": "lineup",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=01271413_69784997b48cb.jpg&width=1200&height=630"
+          "source_url": "https://anime-press.net/wp-content/uploads/2026/02/01051456_695b528c745fe.jpg"
         }
       ],
       "sales": [
@@ -9518,7 +9533,7 @@
         {
           "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7160",
           "type": "official",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -9526,7 +9541,7 @@
         "抽奖",
         "非卖品"
       ],
-      "notes": "店铺抽奖A赏；图片为同系列天爱星角色图参考。 暂用同系列官方全阵容图，待补志喜屋单品详情图。"
+      "notes": "采用活动抽奖 A 奖六角色完整奖品图。"
     },
     {
       "id": "thechara-valentine-memorial-art",
@@ -9599,13 +9614,13 @@
       "release_date": null,
       "list_price_yen": 825,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/thechara-valentine-microfiber-shikiya-lineup.jpg",
+          "path": "images/items/thechara-valentine-microfiber-shikiya.jpg",
           "thumbnail_path": "images/thumbs/thechara-valentine-microfiber-shikiya.webp",
-          "role": "lineup",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=01271413_69784997b48cb.jpg&width=1200&height=630"
+          "role": "product",
+          "source_url": "https://img.amiami.jp/images/product/main/262/GOODS-04809756.jpg"
         }
       ],
       "sales": [
@@ -9619,12 +9634,12 @@
         {
           "url": "https://www.the-chara.com/view/search?page=2&search_category=ct3",
           "type": "manufacturer",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         },
         {
           "url": "https://www.gamers.co.jp/pn/pd/10870416/",
           "type": "seller",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -9632,7 +9647,7 @@
         "新规绘制",
         "单人"
       ],
-      "notes": "资料图待补 暂用同系列官方全阵容图，待补志喜屋单品详情图。"
+      "notes": "已核对 AmiAmi 商品页的角色单品图与官方活动阵容。"
     },
     {
       "id": "thechara-valentine-mini-art",
@@ -9805,13 +9820,13 @@
       "release_date": null,
       "list_price_yen": 2200,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/thechara-valentine-stand-shikiya-lineup.jpg",
+          "path": "images/items/thechara-valentine-stand-shikiya.jpg",
           "thumbnail_path": "images/thumbs/thechara-valentine-stand-shikiya.webp",
-          "role": "lineup",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=01271413_69784997b48cb.jpg&width=1200&height=630"
+          "role": "product",
+          "source_url": "https://img.amiami.jp/images/product/main/262/GOODS-04809747.jpg"
         }
       ],
       "sales": [
@@ -9830,12 +9845,12 @@
         {
           "url": "https://www.the-chara.com/view/item/000000088322",
           "type": "manufacturer",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         },
         {
           "url": "https://www.gamers.co.jp/pn/pd/10870407/",
           "type": "seller",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -9843,7 +9858,7 @@
         "新规绘制",
         "单人"
       ],
-      "notes": "商品代码 0_4570179858598；资料图待补 暂用同系列官方全阵容图，待补志喜屋单品详情图。"
+      "notes": "已核对 AmiAmi 商品页的角色单品图与官方活动阵容。"
     },
     {
       "id": "thechara-valentine-tapestry-shikiya",
@@ -9866,13 +9881,13 @@
       "release_date": null,
       "list_price_yen": 8800,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/thechara-valentine-tapestry-shikiya-lineup.jpg",
+          "path": "images/items/thechara-valentine-tapestry-shikiya.jpg",
           "thumbnail_path": "images/thumbs/thechara-valentine-tapestry-shikiya.webp",
-          "role": "lineup",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=01271413_69784997b48cb.jpg&width=1200&height=630"
+          "role": "product",
+          "source_url": "https://img.amiami.jp/images/product/main/262/GOODS-04809766.jpg"
         }
       ],
       "sales": [
@@ -9886,12 +9901,12 @@
         {
           "url": "https://www.the-chara.com/view/search?page=2&search_category=ct3",
           "type": "manufacturer",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         },
         {
           "url": "https://www.gamers.co.jp/pn/pd/10870426/",
           "type": "seller",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -9899,7 +9914,7 @@
         "新规绘制",
         "单人"
       ],
-      "notes": "资料图待补 暂用同系列官方全阵容图，待补志喜屋单品详情图。"
+      "notes": "已核对 AmiAmi 商品页的角色单品图与官方活动阵容。"
     },
     {
       "id": "weiss-schwarz-mki-w126-097-shikiya",
@@ -10079,13 +10094,13 @@
       "release_date": null,
       "list_price_yen": 1980,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/tosyo-winter-bookmarker-shikiya-lineup.jpg",
+          "path": "images/items/tosyo-winter-bookmarker-shikiya.jpg",
           "thumbnail_path": "images/thumbs/tosyo-winter-bookmarker-shikiya.webp",
           "role": "lineup",
-          "source_url": "https://d1bdgtbdniw5kz.cloudfront.net/img/goods/L/CS9983402166.jpg"
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/26614/55/26614-55-86c17a123479b1a66a204233829fc391-800x800.jpg"
         }
       ],
       "sales": [
@@ -10099,19 +10114,19 @@
         {
           "url": "https://tosyo-goods.jp/collections/charain_makeine",
           "type": "manufacturer",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         },
         {
           "url": "https://www.shop.post.japanpost.jp/shop/g/gCS9983402178/",
           "type": "official",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "冬制服",
         "书签"
       ],
-      "notes": "资料图待补 暂用同系列官方全阵容图，待补志喜屋单品详情图。"
+      "notes": "已按同活动的官方商品品类图与其他角色项目交叉核对。"
     },
     {
       "id": "tosyo-winter-keychain-shikiya",
@@ -10134,13 +10149,13 @@
       "release_date": null,
       "list_price_yen": 1100,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/tosyo-winter-keychain-shikiya-lineup.jpg",
+          "path": "images/items/tosyo-winter-keychain-shikiya.jpg",
           "thumbnail_path": "images/thumbs/tosyo-winter-keychain-shikiya.webp",
           "role": "lineup",
-          "source_url": "https://d1bdgtbdniw5kz.cloudfront.net/img/goods/L/CS9983402166.jpg"
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/26614/55/26614-55-fffa165efb25b041a3c5d4fea9338500-3900x3900.jpg"
         }
       ],
       "sales": [
@@ -10154,19 +10169,19 @@
         {
           "url": "https://tosyo-goods.jp/collections/charain_makeine",
           "type": "manufacturer",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         },
         {
           "url": "https://www.shop.post.japanpost.jp/shop/g/gCS9983402153/",
           "type": "official",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "冬制服",
         "单人"
       ],
-      "notes": "资料图待补 暂用同系列官方全阵容图，待补志喜屋单品详情图。"
+      "notes": "已按同活动的官方商品品类图与其他角色项目交叉核对。"
     },
     {
       "id": "tosyo-winter-stamp-shikiya",
@@ -10189,13 +10204,13 @@
       "release_date": null,
       "list_price_yen": 1650,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/tosyo-winter-stamp-shikiya-lineup.jpg",
+          "path": "images/items/tosyo-winter-stamp-shikiya.jpg",
           "thumbnail_path": "images/thumbs/tosyo-winter-stamp-shikiya.webp",
           "role": "lineup",
-          "source_url": "https://d1bdgtbdniw5kz.cloudfront.net/img/goods/L/CS9983402166.jpg"
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/26614/55/26614-55-73287a899bb5b5bc603e9cb89a9b9d19-800x800.jpg"
         }
       ],
       "sales": [
@@ -10209,19 +10224,19 @@
         {
           "url": "https://tosyo-goods.jp/collections/charain_makeine",
           "type": "manufacturer",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         },
         {
           "url": "https://www.shop.post.japanpost.jp/shop/g/gCS9983402165/",
           "type": "official",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "冬制服",
         "文具"
       ],
-      "notes": "资料图待补 暂用同系列官方全阵容图，待补志喜屋单品详情图。"
+      "notes": "已按同活动的官方商品品类图与其他角色项目交叉核对。"
     },
     {
       "id": "tosyo-winter-stand-shikiya",
@@ -10244,13 +10259,13 @@
       "release_date": null,
       "list_price_yen": 1760,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/tosyo-winter-stand-shikiya-lineup.jpg",
+          "path": "images/items/tosyo-winter-stand-shikiya.jpg",
           "thumbnail_path": "images/thumbs/tosyo-winter-stand-shikiya.webp",
           "role": "lineup",
-          "source_url": "https://d1bdgtbdniw5kz.cloudfront.net/img/goods/L/CS9983402166.jpg"
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/26614/55/26614-55-6c03e74820dc31e099b8ceb50854f3a2-800x800.jpg"
         }
       ],
       "sales": [
@@ -10264,19 +10279,531 @@
         {
           "url": "https://tosyo-goods.jp/collections/charain_makeine",
           "type": "manufacturer",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         },
         {
           "url": "https://www.shop.post.japanpost.jp/shop/g/gCS9983402141/",
           "type": "official",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "冬制服",
         "单人"
       ],
-      "notes": "资料图待补 暂用同系列官方全阵容图，待补志喜屋单品详情图。"
+      "notes": "已按同活动的官方商品品类图与其他角色项目交叉核对。"
+    },
+    {
+      "id": "bddvd-aniplex-yumeko-tiara-tapestry",
+      "global_product_id": "bddvd-aniplex-yumeko-tiara-tapestry",
+      "character_id": "shikiya-yumeko",
+      "name_ja": "全巻特典 温水の部屋の美少女タペストリーイラスト B2タペストリー（志喜屋夢子＆馬剃天愛星）",
+      "name_zh": "Blu-ray/DVD Aniplex 全卷特典 温水房间的美少女插画 B2挂毯（志喜屋梦子＆马剃天爱星）",
+      "category_id": "tapestry",
+      "campaign_id": "anime-bddvd-store-benefits",
+      "manufacturer_id": "aniplex",
+      "variant": "志喜屋梦子＆马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": null,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/bddvd-aniplex-yumeko-tiara-tapestry.jpg",
+          "thumbnail_path": "images/thumbs/bddvd-aniplex-yumeko-tiara-tapestry.webp",
+          "role": "product",
+          "source_url": "https://makeine-anime.com/assets/img/bddvd/img_goods_aniplex_05.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Aniplex Online",
+          "phase": "purchase_bonus",
+          "url": "https://makeine-anime.com/bddvd/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://makeine-anime.com/bddvd/",
+          "type": "official",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "Blu-ray/DVD",
+        "店铺特典",
+        "志喜屋梦子＆马剃天爱星"
+      ],
+      "notes": "已按动画官网 Blu-ray/DVD 店铺特典清单与官方商品图核对。"
+    },
+    {
+      "id": "eternorecit-stand-keyholder-shikiya",
+      "global_product_id": "eternorecit-stand-keyholder-shikiya",
+      "character_id": "shikiya-yumeko",
+      "name_ja": "アクリルスタンドキーホルダー 志喜屋夢子",
+      "name_zh": "Eterno Récit 亚克力立牌挂件 志喜屋梦子",
+      "category_id": "acrylic_stand",
+      "campaign_id": "eterno-recit-heart",
+      "manufacturer_id": "eterno-recit",
+      "variant": "志喜屋梦子",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 8
+      },
+      "spec": {
+        "size": "长边约115mm×短边约100mm",
+        "material": "亚克力、合金"
+      },
+      "release_date": "2025-09-12",
+      "list_price_yen": 990,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/eternorecit-stand-keyholder-shikiya.jpg",
+          "thumbnail_path": "images/thumbs/eternorecit-stand-keyholder-shikiya.webp",
+          "role": "lineup",
+          "source_url": "https://www.eternorecit.jp/images/collabo/2025/er05-makeine-a/ermkino013-020.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Eterno Récit",
+          "phase": "general_sale",
+          "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
+          "type": "official",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "Eterno Récit",
+        "爱心Q版",
+        "志喜屋梦子"
+      ],
+      "notes": "已按 ETERNO RÉCIT 官方联动页的对应商品品类图核对。"
+    },
+    {
+      "id": "keyth-kemomimi-block-shikiya",
+      "global_product_id": "keyth-kemomimi-block-shikiya",
+      "character_id": "shikiya-yumeko",
+      "name_ja": "ダイカットアクリルブロック 志喜屋夢子／ケモミミパーカー",
+      "name_zh": "兽耳连帽衫 异形亚克力砖 志喜屋梦子",
+      "category_id": "acrylic_art",
+      "campaign_id": "kemomimi-parka",
+      "manufacturer_id": "key-th-curtain-damashii",
+      "variant": "志喜屋梦子",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 990,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/keyth-kemomimi-block-shikiya.jpg",
+          "thumbnail_path": "images/thumbs/keyth-kemomimi-block-shikiya.webp",
+          "role": "product",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4571608539958_1_1780052709.jpg&width=1200&height=630"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Key-th / カーテン魂",
+          "phase": "general_sale",
+          "url": "https://www.animate-onlineshop.jp/pd/3496847/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.animate-onlineshop.jp/pd/3496847/",
+          "type": "seller",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "tags": [
+        "兽耳",
+        "连帽衫",
+        "志喜屋梦子"
+      ],
+      "notes": null
+    },
+    {
+      "id": "keyth-kemomimi-stand-shikiya",
+      "global_product_id": "keyth-kemomimi-stand-shikiya",
+      "character_id": "shikiya-yumeko",
+      "name_ja": "アクリルスタンド 志喜屋夢子／ケモミミパーカー",
+      "name_zh": "兽耳连帽衫 亚克力立牌 志喜屋梦子",
+      "category_id": "acrylic_stand",
+      "campaign_id": "kemomimi-parka",
+      "manufacturer_id": "key-th-curtain-damashii",
+      "variant": "志喜屋梦子",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 1210,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/keyth-kemomimi-stand-shikiya.jpg",
+          "thumbnail_path": "images/thumbs/keyth-kemomimi-stand-shikiya.webp",
+          "role": "product",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4580883060040_1_1780052723.jpg&width=1200&height=630"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Key-th / カーテン魂",
+          "phase": "general_sale",
+          "url": "https://www.animate-onlineshop.jp/pd/3496855/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.animate-onlineshop.jp/pd/3496855/",
+          "type": "seller",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "tags": [
+        "兽耳",
+        "连帽衫",
+        "志喜屋梦子"
+      ],
+      "notes": null
+    },
+    {
+      "id": "keyth-kemomimi-keychain-shikiya",
+      "global_product_id": "keyth-kemomimi-keychain-shikiya",
+      "character_id": "shikiya-yumeko",
+      "name_ja": "アクリルキーホルダー 志喜屋夢子／ケモミミパーカー",
+      "name_zh": "兽耳连帽衫 亚克力挂件 志喜屋梦子",
+      "category_id": "acrylic_keychain",
+      "campaign_id": "kemomimi-parka",
+      "manufacturer_id": "key-th-curtain-damashii",
+      "variant": "志喜屋梦子",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 990,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/keyth-kemomimi-keychain-shikiya.jpg",
+          "thumbnail_path": "images/thumbs/keyth-kemomimi-keychain-shikiya.webp",
+          "role": "product",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4580883060125_1_1780052725.jpg&width=1200&height=630"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Key-th / カーテン魂",
+          "phase": "general_sale",
+          "url": "https://www.animate-onlineshop.jp/pd/3496863/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.animate-onlineshop.jp/pd/3496863/",
+          "type": "seller",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "tags": [
+        "兽耳",
+        "连帽衫",
+        "志喜屋梦子"
+      ],
+      "notes": null
+    },
+    {
+      "id": "amnibus-jr2-postcards",
+      "global_product_id": "amnibus-jr2-postcards",
+      "character_id": "shikiya-yumeko",
+      "name_ja": "描き下ろし 駅員ver. 第2弾 ポストカード3枚セット",
+      "name_zh": "JR 东海第二弹新绘明信片 3 枚套装",
+      "category_id": "card",
+      "campaign_id": "jr-central-oshi-tabi-station-staff-2",
+      "manufacturer_id": "arma-bianca",
+      "variant": "3枚套装包含志喜屋梦子",
+      "sale_format": {
+        "type": "set",
+        "total_variants": 3
+      },
+      "spec": {
+        "size": "约148×100mm",
+        "material": "紙"
+      },
+      "release_date": null,
+      "list_price_yen": 550,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/amnibus-jr2-postcards.jpg",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8501/16064-8501-8738b20e6dd3a533983fa35680c4b42a-1350x1500.jpg",
+          "thumbnail_path": "images/thumbs/amnibus-jr2-postcards.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アルマビアンカ",
+          "phase": "general_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html",
+          "type": "official",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "tags": [
+        "JR东海",
+        "推し旅",
+        "志喜屋梦子"
+      ],
+      "notes": "官方商品图确认3枚套装包含志喜屋梦子、放虎原云雀、马剃天爱星。"
+    },
+    {
+      "id": "gagaga-j20260007",
+      "global_product_id": "gagaga-j20260007",
+      "character_id": "shikiya-yumeko",
+      "name_ja": "『負けヒロインが多すぎる！』 8.5巻 口絵タペストリー B",
+      "name_zh": "小说第 8.5 卷彩页挂毯 B",
+      "category_id": "tapestry",
+      "campaign_id": "novel-volume-8-5",
+      "manufacturer_id": "gagaga-shop-online",
+      "variant": "商品图案明确包含志喜屋梦子",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 3300,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/gagaga-j20260007.jpg",
+          "thumbnail_path": "images/thumbs/gagaga-j20260007.webp",
+          "role": "product",
+          "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20260007-01.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "GAGAGA SHOP ONLINE",
+          "phase": "general_sale",
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20260007/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20260007/",
+          "type": "official",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "tags": [
+        "小说原作",
+        "GAGAGA SHOP",
+        "志喜屋梦子"
+      ],
+      "notes": "官方商品图明确包含志喜屋梦子与温水佳树。"
+    },
+    {
+      "id": "gagaga-j20260008",
+      "global_product_id": "gagaga-j20260008",
+      "character_id": "shikiya-yumeko",
+      "name_ja": "『負けヒロインが多すぎる！』 8.5巻 口絵タペストリー C",
+      "name_zh": "小说第 8.5 卷彩页挂毯 C",
+      "category_id": "tapestry",
+      "campaign_id": "novel-volume-8-5",
+      "manufacturer_id": "gagaga-shop-online",
+      "variant": "商品图案明确包含志喜屋梦子",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 3300,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/gagaga-j20260008.jpg",
+          "thumbnail_path": "images/thumbs/gagaga-j20260008.webp",
+          "role": "product",
+          "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20260008-01.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "GAGAGA SHOP ONLINE",
+          "phase": "general_sale",
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20260008/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20260008/",
+          "type": "official",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "tags": [
+        "小说原作",
+        "GAGAGA SHOP",
+        "志喜屋梦子"
+      ],
+      "notes": "官方商品图明确包含志喜屋梦子与温水佳树。"
+    },
+    {
+      "id": "gagaga-j20260010",
+      "global_product_id": "gagaga-j20260010",
+      "character_id": "shikiya-yumeko",
+      "name_ja": "『負けヒロインが多すぎる！』 8.5巻 アクリルアートパネル B",
+      "name_zh": "小说第 8.5 卷亚克力艺术板 B",
+      "category_id": "acrylic_art",
+      "campaign_id": "novel-volume-8-5",
+      "manufacturer_id": "gagaga-shop-online",
+      "variant": "商品图案明确包含志喜屋梦子",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 3850,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/gagaga-j20260010.jpg",
+          "thumbnail_path": "images/thumbs/gagaga-j20260010.webp",
+          "role": "product",
+          "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20260011-01.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "GAGAGA SHOP ONLINE",
+          "phase": "general_sale",
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20260010/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20260010/",
+          "type": "official",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "tags": [
+        "小说原作",
+        "GAGAGA SHOP",
+        "志喜屋梦子"
+      ],
+      "notes": "官方商品图明确包含志喜屋梦子与温水佳树。"
+    },
+    {
+      "id": "gagaga-j20260011",
+      "global_product_id": "gagaga-j20260011",
+      "character_id": "shikiya-yumeko",
+      "name_ja": "『負けヒロインが多すぎる！』 8.5巻 アクリルアートパネル C",
+      "name_zh": "小说第 8.5 卷亚克力艺术板 C",
+      "category_id": "acrylic_art",
+      "campaign_id": "novel-volume-8-5",
+      "manufacturer_id": "gagaga-shop-online",
+      "variant": "商品图案明确包含志喜屋梦子",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 3850,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/gagaga-j20260011.jpg",
+          "thumbnail_path": "images/thumbs/gagaga-j20260011.webp",
+          "role": "product",
+          "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20260010-01.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "GAGAGA SHOP ONLINE",
+          "phase": "general_sale",
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20260011/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20260011/",
+          "type": "official",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "tags": [
+        "小说原作",
+        "GAGAGA SHOP",
+        "志喜屋梦子"
+      ],
+      "notes": "官方商品图明确包含志喜屋梦子与温水佳树。"
     }
   ]
 }

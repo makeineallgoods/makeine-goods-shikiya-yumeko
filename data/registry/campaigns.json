@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-06",
+  "updated_at": "2026-10-07",
   "campaigns": [
     {
       "id": "across-tsuwabuki-chibi-2025",
@@ -37,6 +37,17 @@
       ],
       "year": 2024,
       "official_url": "https://www.shogakukan.co.jp/pr/makeine2406.pdf"
+    },
+    {
+      "id": "anime-bddvd-store-benefits",
+      "name_zh": "动画 Blu-ray/DVD 店铺特典",
+      "name_ja": "Blu-ray/DVD 店舗別特典",
+      "aliases": [
+        "全巻購入特典",
+        "連動購入特典"
+      ],
+      "year": 2024,
+      "official_url": "https://makeine-anime.com/bddvd/?id=03"
     },
     {
       "id": "animega-chibi-2025",
@@ -298,6 +309,14 @@
       "aliases": [],
       "year": 2024,
       "official_url": "https://gagagabunko.jp/lineup/202407.html"
+    },
+    {
+      "id": "novel-volume-8-5",
+      "name_zh": "小说第8.5卷",
+      "name_ja": "原作8.5巻",
+      "aliases": [],
+      "year": 2026,
+      "official_url": null
     },
     {
       "id": "novel-volume-9",

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-05",
+  "updated_at": "2026-10-07",
   "manufacturers": [
     {
       "id": "across",
@@ -185,6 +185,12 @@
       "aliases": [
         "カルチュア・コンビニエンス・クラブ"
       ]
+    },
+    {
+      "id": "aniplex",
+      "name_zh": "Aniplex",
+      "name_ja": "アニプレックス",
+      "aliases": []
     }
   ]
 }
