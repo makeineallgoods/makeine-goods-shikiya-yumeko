@@ -4,7 +4,7 @@
   "catalog": {
     "title": "志喜屋梦子制品图鉴",
     "scope": "《败犬女主太多了！》中明确包含志喜屋梦子的官方实体制品",
-    "updated_at": "2026-10-07",
+    "updated_at": "2026-10-08",
     "status": "collecting"
   },
   "character": {
@@ -25,7 +25,7 @@
       "name_zh": "AKROS 石蕗祭Q版亚克力挂件 志喜屋梦子",
       "category_id": "acrylic_keychain",
       "campaign_id": "across-tsuwabuki-chibi-2025",
-      "manufacturer_id": "across",
+      "manufacturer_id": "akros",
       "variant": "全7款中的志喜屋梦子款",
       "sale_format": {
         "type": "single",
@@ -58,7 +58,7 @@
         {
           "url": "https://www.value-press.com/pressrelease/352447",
           "type": "official",
-          "checked_at": "2026-10-05"
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
@@ -74,12 +74,12 @@
       "id": "across-tsuwabuki-chibi-trading-badge",
       "global_product_id": "across-tsuwabuki-chibi-trading-badge",
       "character_id": "shikiya-yumeko",
-      "name_ja": "ツワブキ祭ディフォルメイラスト缶バッジ 志喜屋夢子",
-      "name_zh": "AKROS 石蕗祭Q版随机徽章 志喜屋梦子款",
+      "name_ja": "ツワブキ祭ディフォルメイラスト缶バッジ",
+      "name_zh": "AKROS 石蕗祭Q版随机徽章（全7种）",
       "category_id": "can_badge",
       "campaign_id": "across-tsuwabuki-chibi-2025",
-      "manufacturer_id": "across",
-      "variant": "随机全7款中的志喜屋梦子款",
+      "manufacturer_id": "akros",
+      "variant": "随机全7款，图案包含志喜屋梦子",
       "sale_format": {
         "type": "random",
         "total_variants": 7
@@ -111,7 +111,7 @@
         {
           "url": "https://www.value-press.com/pressrelease/352447",
           "type": "official",
-          "checked_at": "2026-10-05"
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
@@ -132,7 +132,7 @@
       "name_zh": "AKROS 石蕗祭Q版七人群像T恤",
       "category_id": "apparel",
       "campaign_id": "across-tsuwabuki-chibi-2025",
-      "manufacturer_id": "across",
+      "manufacturer_id": "akros",
       "variant": "背面七人群像包含志喜屋梦子；M／L／XL",
       "sale_format": {
         "type": "single",
@@ -165,7 +165,7 @@
         {
           "url": "https://www.value-press.com/pressrelease/352447",
           "type": "official",
-          "checked_at": "2026-10-05"
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
@@ -182,9 +182,9 @@
       "global_product_id": "thechara-shrine-bromide-bonus",
       "character_id": "shikiya-yumeko",
       "name_ja": "購入特典 ブロマイド 巫女舞 ver.",
-      "name_zh": "巫女舞 满额特典照片卡",
+      "name_zh": "京まふ 2026 巫女舞 After 满额特典照片卡",
       "category_id": "card",
-      "campaign_id": "after-kyomaf",
+      "campaign_id": "kyomaf-2026-miko-dance",
       "manufacturer_id": "gamers-content-seed",
       "variant": "群像图案包含志喜屋梦子",
       "sale_format": {
@@ -225,7 +225,8 @@
         "动画版",
         "巫女舞",
         "满额特典",
-        "非卖品"
+        "非卖品",
+        "After"
       ],
       "notes": "每购买或预约内金满3000日元赠送1枚；非单独销售。"
     },
@@ -234,9 +235,9 @@
       "global_product_id": "thechara-shrine-lottery-figure-shikiya",
       "character_id": "shikiya-yumeko",
       "name_ja": "A賞 特大アクリルフィギュア 志喜屋夢子 巫女舞 ver.",
-      "name_zh": "巫女舞 A奖特大亚克力立牌 志喜屋梦子",
+      "name_zh": "京まふ 2026 巫女舞 After A奖特大亚克力立牌 志喜屋梦子",
       "category_id": "acrylic_stand",
-      "campaign_id": "after-kyomaf",
+      "campaign_id": "kyomaf-2026-miko-dance",
       "manufacturer_id": "gamers-content-seed",
       "variant": "志喜屋梦子（抽选奖品）",
       "sale_format": {
@@ -276,7 +277,8 @@
       "tags": [
         "动画版",
         "巫女舞",
-        "新规绘制"
+        "新规绘制",
+        "After"
       ],
       "notes": "每购买或预约内金满3000日元可参加一次抽选；非卖品。"
     },
@@ -496,7 +498,7 @@
       "global_product_id": "animega-chibi-2025-big-stand-shikiya",
       "character_id": "shikiya-yumeko",
       "name_ja": "ビッグアクリルスタンド 志喜屋夢子",
-      "name_zh": "Animega原创Q版 大型亚克力立牌 志喜屋梦子",
+      "name_zh": "Animega×Sofmap Q版 大型亚克力立牌 志喜屋梦子",
       "category_id": "acrylic_stand",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -546,7 +548,7 @@
       "global_product_id": "animega-chibi-2025-cushion-shikiya",
       "character_id": "shikiya-yumeko",
       "name_ja": "ダイカットクッション 志喜屋夢子",
-      "name_zh": "Animega原创Q版 异形抱枕 志喜屋梦子",
+      "name_zh": "Animega×Sofmap Q版 异形抱枕 志喜屋梦子",
       "category_id": "fabric_goods",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -596,7 +598,7 @@
       "global_product_id": "animega-chibi-2025-eco-bag",
       "character_id": "shikiya-yumeko",
       "name_ja": "エコバッグ",
-      "name_zh": "Animega原创Q版 环保袋",
+      "name_zh": "Animega×Sofmap Q版 环保袋",
       "category_id": "bag",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -646,7 +648,7 @@
       "global_product_id": "animega-chibi-2025-frosted-mug",
       "character_id": "shikiya-yumeko",
       "name_ja": "フロストマグカップ",
-      "name_zh": "Animega原创Q版 磨砂玻璃杯",
+      "name_zh": "Animega×Sofmap Q版 磨砂玻璃杯",
       "category_id": "tableware",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -696,7 +698,7 @@
       "global_product_id": "animega-chibi-2025-long-tshirt",
       "character_id": "shikiya-yumeko",
       "name_ja": "ロングTシャツ",
-      "name_zh": "Animega原创Q版 长袖T恤",
+      "name_zh": "Animega×Sofmap Q版 长袖T恤",
       "category_id": "apparel",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -746,7 +748,7 @@
       "global_product_id": "animega-chibi-2025-metal-badge",
       "character_id": "shikiya-yumeko",
       "name_ja": "トレーディングメタリック缶バッジ",
-      "name_zh": "Animega原创Q版 随机金属徽章",
+      "name_zh": "Animega×Sofmap Q版 随机金属徽章",
       "category_id": "can_badge",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -796,7 +798,7 @@
       "global_product_id": "animega-chibi-2025-postcard-bonus-shikiya",
       "character_id": "shikiya-yumeko",
       "name_ja": "ノベルティポストカード 志喜屋夢子",
-      "name_zh": "Animega原创Q版 购入特典明信片 志喜屋梦子款",
+      "name_zh": "Animega×Sofmap Q版 购入特典明信片 志喜屋梦子款",
       "category_id": "card",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -846,7 +848,7 @@
       "global_product_id": "animega-chibi-2025-stand-shikiya",
       "character_id": "shikiya-yumeko",
       "name_ja": "アクリルスタンド 志喜屋夢子",
-      "name_zh": "Animega原创Q版 亚克力立牌 志喜屋梦子",
+      "name_zh": "Animega×Sofmap Q版 亚克力立牌 志喜屋梦子",
       "category_id": "acrylic_stand",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -865,6 +867,12 @@
       "verification": "confirmed_image",
       "images": [
         {
+          "path": "images/items/animate-3306413.jpg",
+          "thumbnail_path": "images/thumbs/animate-3306413.webp",
+          "role": "product",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4571694210090_1_1762945521.jpg&width=400&height=400&square=1"
+        },
+        {
           "path": "images/items/animega-chibi-2025-stand-shikiya.jpg",
           "thumbnail_path": "images/thumbs/animega-chibi-2025-stand-shikiya.webp",
           "role": "lineup",
@@ -876,6 +884,11 @@
           "seller": "アニメガ×ソフマップ",
           "phase": "general_sale",
           "url": "https://prtimes.jp/main/html/rd/p/000000244.000066407.html"
+        },
+        {
+          "seller": "アニメイト",
+          "phase": "general_sale",
+          "url": "https://www.animate-onlineshop.jp/pn/%E3%80%90%E3%82%B0%E3%83%83%E3%82%BA-%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%E3%83%9D%E3%83%83%E3%83%97%E3%80%91TV%E3%82%A2%E3%83%8B%E3%83%A1%E3%80%8C%E8%B2%A0%E3%81%91%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%81%8C%E5%A4%9A%E3%81%99%E3%81%8E%E3%82%8B%EF%BC%81%E3%80%8D%C3%97%E3%82%B9%E3%82%BA%E3%82%AD%E3%83%8F%E3%83%AB%E3%82%AB+%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89+%E5%BF%97%E5%96%9C%E5%B1%8B%E5%A4%A2%E5%AD%90/pd/3306413/"
         }
       ],
       "sources": [
@@ -883,20 +896,25 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000244.000066407.html",
           "type": "official",
           "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://www.animate-onlineshop.jp/pn/%E3%80%90%E3%82%B0%E3%83%83%E3%82%BA-%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%E3%83%9D%E3%83%83%E3%83%97%E3%80%91TV%E3%82%A2%E3%83%8B%E3%83%A1%E3%80%8C%E8%B2%A0%E3%81%91%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%81%8C%E5%A4%9A%E3%81%99%E3%81%8E%E3%82%8B%EF%BC%81%E3%80%8D%C3%97%E3%82%B9%E3%82%BA%E3%82%AD%E3%83%8F%E3%83%AB%E3%82%AB+%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89+%E5%BF%97%E5%96%9C%E5%B1%8B%E5%A4%A2%E5%AD%90/pd/3306413/",
+          "type": "retailer",
+          "checked_at": "2026-10-05"
         }
       ],
       "tags": [
         "动画版",
         "志喜屋梦子"
       ],
-      "notes": "已按同活动的官方商品品类图与其他角色项目交叉核对。"
+      "notes": "已按同活动的官方商品品类图与其他角色项目交叉核对。 Animate 商品页标注发售期：2026年02月下旬 発売"
     },
     {
       "id": "animega-chibi-2025-sticker-set",
       "global_product_id": "animega-chibi-2025-sticker-set",
       "character_id": "shikiya-yumeko",
       "name_ja": "ダイカットステッカーセット",
-      "name_zh": "Animega原创Q版 异形贴纸套装",
+      "name_zh": "Animega×Sofmap Q版 异形贴纸套装",
       "category_id": "sticker",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -946,7 +964,7 @@
       "global_product_id": "animega-chibi-2025-trading-card",
       "character_id": "shikiya-yumeko",
       "name_ja": "トレーディングカード",
-      "name_zh": "Animega原创Q版 随机卡片",
+      "name_zh": "Animega×Sofmap Q版 随机卡片",
       "category_id": "card",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -996,7 +1014,7 @@
       "global_product_id": "animega-chibi-2025-trading-keychain",
       "character_id": "shikiya-yumeko",
       "name_ja": "トレーディングアクリルキーホルダー",
-      "name_zh": "Animega原创Q版 随机亚克力挂件",
+      "name_zh": "Animega×Sofmap Q版 随机亚克力挂件",
       "category_id": "acrylic_keychain",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -1704,7 +1722,7 @@
       "global_product_id": "animate-3395370",
       "character_id": "shikiya-yumeko",
       "name_ja": "ジオラマアクリル /07 志喜屋夢子",
-      "name_zh": "场景亚克力立牌 /07 志喜屋梦子",
+      "name_zh": "CS.FRONT /07 亚克力场景 志喜屋梦子",
       "category_id": "acrylic_stand",
       "campaign_id": "cs-front",
       "manufacturer_id": "cs-front",
@@ -1754,7 +1772,7 @@
       "global_product_id": "animate-3395379",
       "character_id": "shikiya-yumeko",
       "name_ja": "シャカシャカアクキー /07 志喜屋夢子",
-      "name_zh": "摇摇亚克力挂件 /07 志喜屋梦子",
+      "name_zh": "CS.FRONT /07 摇摇亚克力挂件 志喜屋梦子",
       "category_id": "acrylic_keychain",
       "campaign_id": "cs-front",
       "manufacturer_id": "cs-front",
@@ -1804,7 +1822,7 @@
       "global_product_id": "animate-3395388",
       "character_id": "shikiya-yumeko",
       "name_ja": "ステッカー /07 志喜屋夢子",
-      "name_zh": "贴纸 /07 志喜屋梦子",
+      "name_zh": "CS.FRONT /07 贴纸 志喜屋梦子",
       "category_id": "sticker",
       "campaign_id": "cs-front",
       "manufacturer_id": "cs-front",
@@ -1854,7 +1872,7 @@
       "global_product_id": "animate-3395398",
       "character_id": "shikiya-yumeko",
       "name_ja": "レザーパスケース /07 志喜屋夢子",
-      "name_zh": "レザーパスケース /07 志喜屋梦子",
+      "name_zh": "CS.FRONT /07 皮革卡套 志喜屋梦子",
       "category_id": "accessory",
       "campaign_id": "cs-front",
       "manufacturer_id": "cs-front",
@@ -1906,7 +1924,7 @@
       "name_ja": "アクリルボード -技- /01 集合",
       "name_zh": "CS.FRONT /01 集合亚克力板",
       "category_id": "acrylic_art",
-      "campaign_id": "cs-front-01",
+      "campaign_id": "cs-front",
       "manufacturer_id": "cs-front",
       "variant": "集合图内含志喜屋梦子",
       "sale_format": {
@@ -1956,7 +1974,7 @@
       "name_ja": "アクリルカード /01 全9種",
       "name_zh": "CS.FRONT /01 随机亚克力卡",
       "category_id": "card",
-      "campaign_id": "cs-front-01",
+      "campaign_id": "cs-front",
       "manufacturer_id": "cs-front",
       "variant": "志喜屋梦子",
       "sale_format": {
@@ -2006,7 +2024,7 @@
       "name_ja": "缶バッジ /01 全9種",
       "name_zh": "CS.FRONT /01 随机徽章",
       "category_id": "can_badge",
-      "campaign_id": "cs-front-01",
+      "campaign_id": "cs-front",
       "manufacturer_id": "cs-front",
       "variant": "志喜屋梦子",
       "sale_format": {
@@ -2056,7 +2074,7 @@
       "name_ja": "まるっとスタンドキーホルダー /01 全9種",
       "name_zh": "CS.FRONT /01 随机竖牌挂件",
       "category_id": "acrylic_keychain",
-      "campaign_id": "cs-front-01",
+      "campaign_id": "cs-front",
       "manufacturer_id": "cs-front",
       "variant": "志喜屋梦子",
       "sale_format": {
@@ -4048,7 +4066,7 @@
       "global_product_id": "amnibus-jr2-acrylic-card",
       "character_id": "shikiya-yumeko",
       "name_ja": "描き下ろし 駅員ver. 第2弾 トレーディングアクリルカード",
-      "name_zh": "JR 东海第二弹新绘随机亚克力卡",
+      "name_zh": "JR东海 推し旅 站员 第二弹 新绘随机亚克力卡",
       "category_id": "card",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -4098,7 +4116,7 @@
       "global_product_id": "amnibus-jr2-chibi-badge",
       "character_id": "shikiya-yumeko",
       "name_ja": "駅員ver. 第2弾 ちびキャラ トレーディンググリッター缶バッジ",
-      "name_zh": "JR 东海第二弹 Q 版随机闪粉徽章",
+      "name_zh": "JR东海 推し旅 站员 第二弹 Q 版随机闪粉徽章",
       "category_id": "can_badge",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -4148,7 +4166,7 @@
       "global_product_id": "amnibus-jr2-chibi-keychain",
       "character_id": "shikiya-yumeko",
       "name_ja": "駅員ver. 第2弾 ちびキャラ トレーディングアクリルキーホルダー",
-      "name_zh": "JR 东海第二弹 Q 版随机亚克力挂件",
+      "name_zh": "JR东海 推し旅 站员 第二弹 Q 版随机亚克力挂件",
       "category_id": "acrylic_keychain",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -4198,7 +4216,7 @@
       "global_product_id": "amnibus-jr2-chibi-mug",
       "character_id": "shikiya-yumeko",
       "name_ja": "駅員ver. 第2弾 ちびキャラ マグカップ",
-      "name_zh": "JR 东海第二弹 Q 版马克杯",
+      "name_zh": "JR东海 推し旅 站员 第二弹 Q 版马克杯",
       "category_id": "tableware",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -4248,7 +4266,7 @@
       "global_product_id": "amnibus-jr2-chibi-stand",
       "character_id": "shikiya-yumeko",
       "name_ja": "駅員ver. 第2弾 ちびキャラ トレーディングアクリルスタンド",
-      "name_zh": "JR 东海第二弹 Q 版随机亚克力立牌",
+      "name_zh": "JR东海 推し旅 站员 第二弹 Q 版随机亚克力立牌",
       "category_id": "acrylic_stand",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -4298,7 +4316,7 @@
       "global_product_id": "amnibus-jr2-chibi-stickers",
       "character_id": "shikiya-yumeko",
       "name_ja": "駅員ver. 第2弾 ちびキャラ フレークシール",
-      "name_zh": "JR 东海第二弹 Q 版散装贴纸",
+      "name_zh": "JR东海 推し旅 站员 第二弹 Q 版散装贴纸",
       "category_id": "sticker",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -4348,7 +4366,7 @@
       "global_product_id": "amnibus-jr2-deskmat-b",
       "character_id": "shikiya-yumeko",
       "name_ja": "描き下ろし 駅員ver. 第2弾 マルチデスクマット B",
-      "name_zh": "JR 东海第二弹新绘多用途桌垫 B",
+      "name_zh": "JR东海 推し旅 站员 第二弹 新绘多用途桌垫 B",
       "category_id": "stationery",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -4398,7 +4416,7 @@
       "global_product_id": "amnibus-jr2-glitter-badge",
       "character_id": "shikiya-yumeko",
       "name_ja": "描き下ろし 駅員ver. 第2弾 トレーディンググリッター缶バッジ",
-      "name_zh": "JR 东海第二弹新绘随机闪粉徽章",
+      "name_zh": "JR东海 推し旅 站员 第二弹 新绘随机闪粉徽章",
       "category_id": "can_badge",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -4448,7 +4466,7 @@
       "global_product_id": "amnibus-jr2-glitter-badge-box-bonus-b",
       "character_id": "shikiya-yumeko",
       "name_ja": "描き下ろし 集合B 駅員ver. 第2弾 グリッター缶バッジ AMNIBUS＆アニメイト限定特典",
-      "name_zh": "JR东海站员第二弹 B组闪粉徽章 BOX预约特典",
+      "name_zh": "JR东海 推し旅 站员 第二弹 B组闪粉徽章 BOX预约特典",
       "category_id": "can_badge",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -4499,7 +4517,7 @@
       "global_product_id": "amnibus-jr2-instant-card",
       "character_id": "shikiya-yumeko",
       "name_ja": "駅員ver. 第2弾 トレーディングインスタントカメラ風イラストカード",
-      "name_zh": "JR 东海第二弹随机拍立得风卡片",
+      "name_zh": "JR东海 推し旅 站员 第二弹 随机拍立得风卡片",
       "category_id": "card",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -4549,7 +4567,7 @@
       "global_product_id": "amnibus-jr2-trading-stand",
       "character_id": "shikiya-yumeko",
       "name_ja": "描き下ろし 駅員ver. 第2弾 トレーディングアクリルスタンド",
-      "name_zh": "JR 东海第二弹新绘随机亚克力立牌",
+      "name_zh": "JR东海 推し旅 站员 第二弹 新绘随机亚克力立牌",
       "category_id": "acrylic_stand",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -4599,7 +4617,7 @@
       "global_product_id": "animate-3342608",
       "character_id": "shikiya-yumeko",
       "name_ja": "描き下ろし 志喜屋夢子 駅員ver. 第2弾 特大アクリルスタンド",
-      "name_zh": "JR东海站员第二弹 特大亚克力立牌 志喜屋梦子",
+      "name_zh": "JR东海 推し旅 站员 第二弹 特大亚克力立牌 志喜屋梦子",
       "category_id": "acrylic_stand",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -4649,7 +4667,7 @@
       "global_product_id": "animate-3342611",
       "character_id": "shikiya-yumeko",
       "name_ja": "描き下ろし 志喜屋夢子 駅員ver. 第2弾 BIGアクリルスタンド",
-      "name_zh": "JR东海站员第二弹 BIG亚克力立牌 志喜屋梦子",
+      "name_zh": "JR东海 推し旅 站员 第二弹 BIG亚克力立牌 志喜屋梦子",
       "category_id": "acrylic_stand",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -4699,7 +4717,7 @@
       "global_product_id": "animate-3342619",
       "character_id": "shikiya-yumeko",
       "name_ja": "描き下ろし 志喜屋夢子 駅員ver. 第2弾 2連ワイヤーBIGアクリルキーホルダー",
-      "name_zh": "JR东海站员第二弹 双联钢丝大型亚克力挂件 志喜屋梦子",
+      "name_zh": "JR东海 推し旅 站员 第二弹 双联钢丝大型亚克力挂件 志喜屋梦子",
       "category_id": "acrylic_keychain",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -4749,7 +4767,7 @@
       "global_product_id": "animate-3342627",
       "character_id": "shikiya-yumeko",
       "name_ja": "描き下ろし 志喜屋夢子 駅員ver. 第2弾 ダイカットステッカー",
-      "name_zh": "JR东海站员第二弹 异形贴纸 志喜屋梦子",
+      "name_zh": "JR东海 推し旅 站员 第二弹 异形贴纸 志喜屋梦子",
       "category_id": "sticker",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -5643,9 +5661,9 @@
       "global_product_id": "thechara-shrine-badge",
       "character_id": "shikiya-yumeko",
       "name_ja": "ホログラムカンバッジ（ブラインド）巫女舞 ver.",
-      "name_zh": "巫女舞 随机镭射徽章",
+      "name_zh": "京まふ 2026 巫女舞 随机镭射徽章",
       "category_id": "can_badge",
-      "campaign_id": "miko-dance-version",
+      "campaign_id": "kyomaf-2026-miko-dance",
       "manufacturer_id": "contents-seed",
       "variant": "志喜屋梦子",
       "sale_format": {
@@ -5693,9 +5711,9 @@
       "global_product_id": "thechara-shrine-deskmat",
       "character_id": "shikiya-yumeko",
       "name_ja": "ラバーデスクマット 巫女舞 ver.",
-      "name_zh": "巫女舞 橡胶桌垫",
+      "name_zh": "京まふ 2026 巫女舞 橡胶桌垫",
       "category_id": "stationery",
-      "campaign_id": "miko-dance-version",
+      "campaign_id": "kyomaf-2026-miko-dance",
       "manufacturer_id": "contents-seed",
       "variant": "集合图内含志喜屋梦子",
       "sale_format": {
@@ -5743,9 +5761,9 @@
       "global_product_id": "thechara-shrine-memorial-art",
       "character_id": "shikiya-yumeko",
       "name_ja": "メモリアルアート 巫女舞 ver.",
-      "name_zh": "巫女舞 纪念画",
+      "name_zh": "京まふ 2026 巫女舞 纪念画",
       "category_id": "acrylic_art",
-      "campaign_id": "miko-dance-version",
+      "campaign_id": "kyomaf-2026-miko-dance",
       "manufacturer_id": "contents-seed",
       "variant": "集合图内含志喜屋梦子",
       "sale_format": {
@@ -5793,9 +5811,9 @@
       "global_product_id": "thechara-shrine-microfiber-shikiya",
       "character_id": "shikiya-yumeko",
       "name_ja": "マイクロファイバー 志喜屋夢子 巫女舞 ver.",
-      "name_zh": "巫女舞 超细纤维布 志喜屋梦子",
+      "name_zh": "京まふ 2026 巫女舞 超细纤维布 志喜屋梦子",
       "category_id": "fabric_goods",
-      "campaign_id": "miko-dance-version",
+      "campaign_id": "kyomaf-2026-miko-dance",
       "manufacturer_id": "contents-seed",
       "variant": "志喜屋梦子",
       "sale_format": {
@@ -5843,9 +5861,9 @@
       "global_product_id": "thechara-shrine-mini-art",
       "character_id": "shikiya-yumeko",
       "name_ja": "ミニアクリルアート 生徒会 巫女舞 ver.",
-      "name_zh": "巫女舞 学生会迷你亚克力艺术板",
+      "name_zh": "京まふ 2026 巫女舞 学生会迷你亚克力艺术板",
       "category_id": "acrylic_art",
-      "campaign_id": "miko-dance-version",
+      "campaign_id": "kyomaf-2026-miko-dance",
       "manufacturer_id": "contents-seed",
       "variant": "学生会集合图内含志喜屋梦子",
       "sale_format": {
@@ -5893,9 +5911,9 @@
       "global_product_id": "thechara-shrine-stand-shikiya",
       "character_id": "shikiya-yumeko",
       "name_ja": "デカアクリルスタンド 志喜屋夢子 巫女舞 ver.",
-      "name_zh": "巫女舞 大型亚克力立牌 志喜屋梦子",
+      "name_zh": "京まふ 2026 巫女舞 大型亚克力立牌 志喜屋梦子",
       "category_id": "acrylic_stand",
-      "campaign_id": "miko-dance-version",
+      "campaign_id": "kyomaf-2026-miko-dance",
       "manufacturer_id": "contents-seed",
       "variant": "志喜屋梦子",
       "sale_format": {
@@ -5943,9 +5961,9 @@
       "global_product_id": "thechara-shrine-tapestry-shikiya",
       "character_id": "shikiya-yumeko",
       "name_ja": "特大タペストリー 志喜屋夢子 巫女舞 ver.",
-      "name_zh": "巫女舞 特大挂毯 志喜屋梦子",
+      "name_zh": "京まふ 2026 巫女舞 特大挂毯 志喜屋梦子",
       "category_id": "tapestry",
-      "campaign_id": "miko-dance-version",
+      "campaign_id": "kyomaf-2026-miko-dance",
       "manufacturer_id": "contents-seed",
       "variant": "志喜屋梦子",
       "sale_format": {
@@ -5993,9 +6011,9 @@
       "global_product_id": "thechara-shrine-woodstrap-shikiya",
       "character_id": "shikiya-yumeko",
       "name_ja": "木札ストラップ 志喜屋夢子 巫女舞 ver.",
-      "name_zh": "巫女舞 木牌挂件 志喜屋梦子",
+      "name_zh": "京まふ 2026 巫女舞 木牌挂件 志喜屋梦子",
       "category_id": "accessory",
-      "campaign_id": "miko-dance-version",
+      "campaign_id": "kyomaf-2026-miko-dance",
       "manufacturer_id": "contents-seed",
       "variant": "志喜屋梦子",
       "sale_format": {
@@ -6293,7 +6311,7 @@
       "global_product_id": "gagaga-j20220038",
       "character_id": "shikiya-yumeko",
       "name_ja": "『負けヒロインが多すぎる！2』 アクリルキーホルダーセット",
-      "name_zh": "小说第2卷亚克力挂件套装",
+      "name_zh": "小说第2卷 亚克力挂件套装",
       "category_id": "acrylic_keychain",
       "campaign_id": "novel-volume-2",
       "manufacturer_id": "gagaga-shop-online",
@@ -6344,7 +6362,7 @@
       "global_product_id": "gagaga-j20220053",
       "character_id": "shikiya-yumeko",
       "name_ja": "『負けヒロインが多すぎる！3』アクリルアートパネル ～生徒会役員ども～",
-      "name_zh": "小说第3卷亚克力艺术板 学生会干部们",
+      "name_zh": "小说第3卷 亚克力艺术板 学生会干部们",
       "category_id": "acrylic_art",
       "campaign_id": "novel-volume-3",
       "manufacturer_id": "gagaga-shop-online",
@@ -6394,7 +6412,7 @@
       "global_product_id": "gagaga-j20220140",
       "character_id": "shikiya-yumeko",
       "name_ja": "『負けヒロインが多すぎる！４』 書影B2タペストリー",
-      "name_zh": "『負けヒロインが多すぎる！４』 書影B2タペストリー",
+      "name_zh": "小说第4卷 封面B2挂毯",
       "category_id": "tapestry",
       "campaign_id": "novel-volume-4",
       "manufacturer_id": "gagaga-shop-online",
@@ -6444,7 +6462,7 @@
       "global_product_id": "gagaga-j20230021",
       "character_id": "shikiya-yumeko",
       "name_ja": "『負けヒロインが多すぎる！ 4』アクリルアートパネル ～そこにはかつて自分の隣にいた、懐かしい姿があった。～",
-      "name_zh": "『負けヒロインが多すぎる！ 4』アクリルアートパネル ～そこにはかつて自分の隣にいた、懐かしい姿があった。～",
+      "name_zh": "小说第4卷 亚克力艺术板 怀念的身影",
       "category_id": "acrylic_art",
       "campaign_id": "novel-volume-4",
       "manufacturer_id": "gagaga-shop-online",
@@ -6494,7 +6512,7 @@
       "global_product_id": "gagaga-j20230060",
       "character_id": "shikiya-yumeko",
       "name_ja": "『負けヒロインが多すぎる！6』アクリルアートパネル",
-      "name_zh": "小说第6卷亚克力艺术板",
+      "name_zh": "小说第6卷 亚克力艺术板",
       "category_id": "acrylic_art",
       "campaign_id": "novel-volume-6",
       "manufacturer_id": "gagaga-shop-online",
@@ -6544,7 +6562,7 @@
       "global_product_id": "gagaga-j20250016",
       "character_id": "shikiya-yumeko",
       "name_ja": "『負けヒロインが多すぎる！ 7』 アクリルアートパネル ～チャペルにて～",
-      "name_zh": "『負けヒロインが多すぎる！ 7』 アクリルアートパネル ～チャペルにて～",
+      "name_zh": "小说第7卷 亚克力艺术板 在教堂",
       "category_id": "acrylic_art",
       "campaign_id": "novel-volume-7",
       "manufacturer_id": "gagaga-shop-online",
@@ -6594,7 +6612,7 @@
       "global_product_id": "gagaga-j20260036",
       "character_id": "shikiya-yumeko",
       "name_ja": "『負けヒロインが多すぎる！』9巻 口絵タペストリー ～いざ祇園祭～",
-      "name_zh": "小说第9卷彩页挂毯 前往祗园祭",
+      "name_zh": "小说第9卷 彩页挂毯 前往祗园祭",
       "category_id": "tapestry",
       "campaign_id": "novel-volume-9",
       "manufacturer_id": "gagaga-shop-online",
@@ -6645,7 +6663,7 @@
       "global_product_id": "gagaga-j20260040",
       "character_id": "shikiya-yumeko",
       "name_ja": "『負けヒロインが多すぎる！』9巻 アクリルキーホルダーセット",
-      "name_zh": "小说第9卷亚克力挂件套装",
+      "name_zh": "小说第9卷 亚克力挂件套装",
       "category_id": "acrylic_keychain",
       "campaign_id": "novel-volume-9",
       "manufacturer_id": "gagaga-shop-online",
@@ -6895,56 +6913,6 @@
         "拍立得风"
       ],
       "notes": null
-    },
-    {
-      "id": "animate-3306413",
-      "global_product_id": "animate-3306413",
-      "character_id": "shikiya-yumeko",
-      "name_ja": "×スズキハルカ アクリルスタンド 志喜屋夢子",
-      "name_zh": "×スズキハルカ 亚克力立牌 志喜屋梦子",
-      "category_id": "acrylic_stand",
-      "campaign_id": "suzuki-haruka-illustration",
-      "manufacturer_id": "edieth-animega-sofmap",
-      "variant": "志喜屋梦子",
-      "sale_format": {
-        "type": "single",
-        "total_variants": null
-      },
-      "spec": {
-        "size": null,
-        "material": null
-      },
-      "release_date": null,
-      "list_price_yen": 1210,
-      "official_status": "official",
-      "verification": "confirmed_text",
-      "images": [
-        {
-          "path": "images/items/animate-3306413.jpg",
-          "thumbnail_path": "images/thumbs/animate-3306413.webp",
-          "role": "product",
-          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4571694210090_1_1762945521.jpg&width=400&height=400&square=1"
-        }
-      ],
-      "sales": [
-        {
-          "seller": "アニメイト",
-          "phase": "general_sale",
-          "url": "https://www.animate-onlineshop.jp/pn/%E3%80%90%E3%82%B0%E3%83%83%E3%82%BA-%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%E3%83%9D%E3%83%83%E3%83%97%E3%80%91TV%E3%82%A2%E3%83%8B%E3%83%A1%E3%80%8C%E8%B2%A0%E3%81%91%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%81%8C%E5%A4%9A%E3%81%99%E3%81%8E%E3%82%8B%EF%BC%81%E3%80%8D%C3%97%E3%82%B9%E3%82%BA%E3%82%AD%E3%83%8F%E3%83%AB%E3%82%AB+%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89+%E5%BF%97%E5%96%9C%E5%B1%8B%E5%A4%A2%E5%AD%90/pd/3306413/"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://www.animate-onlineshop.jp/pn/%E3%80%90%E3%82%B0%E3%83%83%E3%82%BA-%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%E3%83%9D%E3%83%83%E3%83%97%E3%80%91TV%E3%82%A2%E3%83%8B%E3%83%A1%E3%80%8C%E8%B2%A0%E3%81%91%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%81%8C%E5%A4%9A%E3%81%99%E3%81%8E%E3%82%8B%EF%BC%81%E3%80%8D%C3%97%E3%82%B9%E3%82%BA%E3%82%AD%E3%83%8F%E3%83%AB%E3%82%AB+%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89+%E5%BF%97%E5%96%9C%E5%B1%8B%E5%A4%A2%E5%AD%90/pd/3306413/",
-          "type": "retailer",
-          "checked_at": "2026-10-05"
-        }
-      ],
-      "tags": [
-        "动画版",
-        "志喜屋梦子"
-      ],
-      "notes": "Animate 商品页标注发售期：2026年02月下旬 発売"
     },
     {
       "id": "deforaba-rubber-keychain-shikiya",
@@ -10555,7 +10523,7 @@
       "global_product_id": "amnibus-jr2-postcards",
       "character_id": "shikiya-yumeko",
       "name_ja": "描き下ろし 駅員ver. 第2弾 ポストカード3枚セット",
-      "name_zh": "JR 东海第二弹新绘明信片 3 枚套装",
+      "name_zh": "JR东海 推し旅 站员 第二弹 新绘明信片 3 枚套装",
       "category_id": "card",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -10606,7 +10574,7 @@
       "global_product_id": "gagaga-j20260007",
       "character_id": "shikiya-yumeko",
       "name_ja": "『負けヒロインが多すぎる！』 8.5巻 口絵タペストリー B",
-      "name_zh": "小说第 8.5 卷彩页挂毯 B",
+      "name_zh": "小说第8.5卷 彩页挂毯 B",
       "category_id": "tapestry",
       "campaign_id": "novel-volume-8-5",
       "manufacturer_id": "gagaga-shop-online",
@@ -10657,7 +10625,7 @@
       "global_product_id": "gagaga-j20260008",
       "character_id": "shikiya-yumeko",
       "name_ja": "『負けヒロインが多すぎる！』 8.5巻 口絵タペストリー C",
-      "name_zh": "小说第 8.5 卷彩页挂毯 C",
+      "name_zh": "小说第8.5卷 彩页挂毯 C",
       "category_id": "tapestry",
       "campaign_id": "novel-volume-8-5",
       "manufacturer_id": "gagaga-shop-online",
@@ -10708,7 +10676,7 @@
       "global_product_id": "gagaga-j20260010",
       "character_id": "shikiya-yumeko",
       "name_ja": "『負けヒロインが多すぎる！』 8.5巻 アクリルアートパネル B",
-      "name_zh": "小说第 8.5 卷亚克力艺术板 B",
+      "name_zh": "小说第8.5卷 亚克力艺术板 B",
       "category_id": "acrylic_art",
       "campaign_id": "novel-volume-8-5",
       "manufacturer_id": "gagaga-shop-online",
@@ -10759,7 +10727,7 @@
       "global_product_id": "gagaga-j20260011",
       "character_id": "shikiya-yumeko",
       "name_ja": "『負けヒロインが多すぎる！』 8.5巻 アクリルアートパネル C",
-      "name_zh": "小说第 8.5 卷亚克力艺术板 C",
+      "name_zh": "小说第8.5卷 亚克力艺术板 C",
       "category_id": "acrylic_art",
       "campaign_id": "novel-volume-8-5",
       "manufacturer_id": "gagaga-shop-online",
