@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "registry_version": "2026-10-05",
+  "registry_version": "2026-10-09",
   "catalog": {
     "title": "志喜屋梦子制品图鉴",
     "scope": "《败犬女主太多了！》中明确包含志喜屋梦子的官方实体制品",
-    "updated_at": "2026-10-08",
+    "updated_at": "2026-10-10",
     "status": "collecting"
   },
   "character": {
@@ -459,10 +459,10 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/anime-adaptation-cutout-bookmark-shikiya.jpg",
+          "path": "images/items/anime-adaptation-cutout-bookmark-shikiya.webp",
           "thumbnail_path": "images/thumbs/anime-adaptation-cutout-bookmark-shikiya.webp",
           "role": "product",
-          "source_url": "https://www.suruga-ya.jp/database/pics_light/game/560541380.jpg"
+          "source_url": "https://cdn.suruga-ya.jp/pics_webp/boxart_bn/560541379-0001.jpg.webp"
         }
       ],
       "sales": [
@@ -519,8 +519,8 @@
         {
           "path": "images/items/animega-chibi-2025-big-stand-shikiya.jpg",
           "thumbnail_path": "images/thumbs/animega-chibi-2025-big-stand-shikiya.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/66407/244/66407-244-7983d576b19a83ff621a1df6ac1ef624-1000x1000.jpg"
+          "role": "product",
+          "source_url": "https://image.sofmap.com/images/product/pim/4571694210281_A01.jpg?v=20012001"
         }
       ],
       "sales": [
@@ -569,8 +569,8 @@
         {
           "path": "images/items/animega-chibi-2025-cushion-shikiya.jpg",
           "thumbnail_path": "images/thumbs/animega-chibi-2025-cushion-shikiya.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/66407/244/66407-244-6424fabaccf2d064b025f9bcfa2b9315-1000x1000.jpg"
+          "role": "product",
+          "source_url": "https://image.sofmap.com/images/product/pim/4571694210366_A01.jpg?v=20012001"
         }
       ],
       "sales": [
@@ -867,16 +867,10 @@
       "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/animate-3306413.jpg",
-          "thumbnail_path": "images/thumbs/animate-3306413.webp",
-          "role": "product",
-          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4571694210090_1_1762945521.jpg&width=400&height=400&square=1"
-        },
-        {
           "path": "images/items/animega-chibi-2025-stand-shikiya.jpg",
           "thumbnail_path": "images/thumbs/animega-chibi-2025-stand-shikiya.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/66407/244/66407-244-9370d70bf93fce79c53ddf34a8c7e939-1000x1000.jpg"
+          "role": "product",
+          "source_url": "https://image.sofmap.com/images/product/pim/4571694210090_A01.jpg?v=20012001"
         }
       ],
       "sales": [
@@ -2968,56 +2962,6 @@
       "notes": null
     },
     {
-      "id": "animate-3277889",
-      "global_product_id": "animate-3277889",
-      "character_id": "shikiya-yumeko",
-      "name_ja": "アクリルスタンドキーホルダー ＜志喜屋夢子＞【エテルノレシ】",
-      "name_zh": "亚克力立牌挂件 ＜志喜屋梦子＞【エテルノレシ】",
-      "category_id": "acrylic_stand",
-      "campaign_id": "eterno-recit-heart",
-      "manufacturer_id": "eterno-recit",
-      "variant": "志喜屋梦子",
-      "sale_format": {
-        "type": "single",
-        "total_variants": null
-      },
-      "spec": {
-        "size": null,
-        "material": null
-      },
-      "release_date": null,
-      "list_price_yen": 990,
-      "official_status": "official",
-      "verification": "confirmed_text",
-      "images": [
-        {
-          "path": "images/items/animate-3277889.jpg",
-          "thumbnail_path": "images/thumbs/animate-3277889.webp",
-          "role": "product",
-          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4582636976684_1_1759982707.jpg&width=400&height=400&square=1"
-        }
-      ],
-      "sales": [
-        {
-          "seller": "アニメイト",
-          "phase": "general_sale",
-          "url": "https://www.animate-onlineshop.jp/pn/%E3%80%90%E3%82%B0%E3%83%83%E3%82%BA-%E3%82%AD%E3%83%BC%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%E3%80%91TV%E3%82%A2%E3%83%8B%E3%83%A1%E3%80%8E%E8%B2%A0%E3%81%91%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%81%8C%E5%A4%9A%E3%81%99%E3%81%8E%E3%82%8B%EF%BC%81%E3%80%8F+%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%E3%82%AD%E3%83%BC%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC+%EF%BC%9C%E5%BF%97%E5%96%9C%E5%B1%8B+%E5%A4%A2%E5%AD%90%EF%BC%9E%E3%80%90%E3%82%A8%E3%83%86%E3%83%AB%E3%83%8E%E3%83%AC%E3%82%B7%E3%80%91/pd/3277889/"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://www.animate-onlineshop.jp/pn/%E3%80%90%E3%82%B0%E3%83%83%E3%82%BA-%E3%82%AD%E3%83%BC%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%E3%80%91TV%E3%82%A2%E3%83%8B%E3%83%A1%E3%80%8E%E8%B2%A0%E3%81%91%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%81%8C%E5%A4%9A%E3%81%99%E3%81%8E%E3%82%8B%EF%BC%81%E3%80%8F+%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%E3%82%AD%E3%83%BC%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC+%EF%BC%9C%E5%BF%97%E5%96%9C%E5%B1%8B+%E5%A4%A2%E5%AD%90%EF%BC%9E%E3%80%90%E3%82%A8%E3%83%86%E3%83%AB%E3%83%8E%E3%83%AC%E3%82%B7%E3%80%91/pd/3277889/",
-          "type": "retailer",
-          "checked_at": "2026-10-05"
-        }
-      ],
-      "tags": [
-        "动画版",
-        "志喜屋梦子"
-      ],
-      "notes": "Animate 商品页标注发售期：2026年01月下旬 発売"
-    },
-    {
       "id": "eternorecit-keychain-shikiya",
       "global_product_id": "eternorecit-keychain-shikiya",
       "character_id": "shikiya-yumeko",
@@ -3043,15 +2987,15 @@
         {
           "path": "images/items/eternorecit-keychain-shikiya.jpg",
           "thumbnail_path": "images/thumbs/eternorecit-keychain-shikiya.webp",
-          "role": "lineup",
-          "source_url": "https://www.eternorecit.jp/images/collabo/2025/er05-makeine-a/ermkino021-028.jpg"
+          "role": "product",
+          "source_url": "https://goodsrepublic.com/media/binary/013/645/337/13645337.jpg"
         }
       ],
       "sales": [
         {
           "seller": "Eterno Récit",
           "phase": "general_sale",
-          "url": "https://www.animate-onlineshop.jp/pn/pd/3277899/"
+          "url": "https://www.animate-onlineshop.jp/pd/3277897/"
         }
       ],
       "sources": [
@@ -3059,12 +3003,17 @@
           "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
           "type": "official",
           "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://goodsrepublic.com/product/product_page_8334371.html",
+          "type": "retailer",
+          "checked_at": "2026-10-10"
         }
       ],
       "tags": [
         "单人"
       ],
-      "notes": "已按 ETERNO RÉCIT 官方联动页的对应商品品类图核对。"
+      "notes": "Eterno Recit 官方活动页确认商品；单品图由 Goods Republic 商品页核对。"
     },
     {
       "id": "eternorecit-mini-card-set-b",
@@ -3144,8 +3093,8 @@
         {
           "path": "images/items/eternorecit-nameplate-shikiya.jpg",
           "thumbnail_path": "images/thumbs/eternorecit-nameplate-shikiya.webp",
-          "role": "lineup",
-          "source_url": "https://www.eternorecit.jp/images/collabo/2025/er05-makeine-a/ermkino004-011.jpg"
+          "role": "product",
+          "source_url": "https://goodsrepublic.com/media/binary/013/645/193/13645193.jpg"
         }
       ],
       "sales": [
@@ -3160,6 +3109,11 @@
           "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
           "type": "official",
           "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://goodsrepublic.com/product/product_page_8334325.html",
+          "type": "retailer",
+          "checked_at": "2026-10-10"
         }
       ],
       "tags": [
@@ -3168,7 +3122,7 @@
         "爱心Q版",
         "志喜屋梦子"
       ],
-      "notes": "已按 ETERNO RÉCIT 官方联动页的对应商品品类图核对。"
+      "notes": "Eterno Recit 官方活动页确认商品；单品图由 Goods Republic 商品页核对。"
     },
     {
       "id": "eternorecit-ring-pendant-shikiya",
@@ -3924,7 +3878,7 @@
           "path": "images/items/itaindou-chibi-stamp-shikiya.webp",
           "thumbnail_path": "images/thumbs/itaindou-chibi-stamp-shikiya.webp",
           "role": "product",
-          "source_url": "https://www.itaindou.com/cdn/shop/files/make_mini09.webp?v=11962512902054398229"
+          "source_url": "https://www.itaindou.com/cdn/shop/files/18mm_de549b46-7a68-493b-9796-93aaf5538464.jpg?v=1726216591"
         }
       ],
       "sales": [
@@ -3981,7 +3935,7 @@
           "path": "images/items/itaindou-stamp-shikiya.webp",
           "thumbnail_path": "images/thumbs/itaindou-stamp-shikiya.webp",
           "role": "product",
-          "source_url": "https://www.itaindou.com/cdn/shop/files/make_reg09.webp?v=18418396005058629430"
+          "source_url": "https://www.itaindou.com/cdn/shop/files/18mm_8d0a38fd-3a84-46fa-96ef-e0b780944fad.jpg?v=1726215412"
         }
       ],
       "sales": [
@@ -4817,7 +4771,7 @@
       "global_product_id": "animate-3496847",
       "character_id": "shikiya-yumeko",
       "name_ja": "ダイカットアクリルブロック(志喜屋夢子／ケモミミパーカー)",
-      "name_zh": "异形亚克力砖(志喜屋梦子／兽耳连帽衫)",
+      "name_zh": "异形亚克力砖(志喜屋梦子／兽耳连帽造型)",
       "category_id": "acrylic_stand",
       "campaign_id": "kemomimi-parka",
       "manufacturer_id": "key-th-curtain-damashii",
@@ -4867,7 +4821,7 @@
       "global_product_id": "animate-3496855",
       "character_id": "shikiya-yumeko",
       "name_ja": "アクリルスタンド(志喜屋夢子／ケモミミパーカー)",
-      "name_zh": "亚克力立牌(志喜屋梦子／兽耳连帽衫)",
+      "name_zh": "亚克力立牌(志喜屋梦子／兽耳连帽造型)",
       "category_id": "acrylic_stand",
       "campaign_id": "kemomimi-parka",
       "manufacturer_id": "key-th-curtain-damashii",
@@ -4917,7 +4871,7 @@
       "global_product_id": "animate-3496863",
       "character_id": "shikiya-yumeko",
       "name_ja": "アクリルキーホルダー(志喜屋夢子／ケモミミパーカー)",
-      "name_zh": "亚克力挂件(志喜屋梦子／兽耳连帽衫)",
+      "name_zh": "亚克力挂件(志喜屋梦子／兽耳连帽造型)",
       "category_id": "acrylic_keychain",
       "campaign_id": "kemomimi-parka",
       "manufacturer_id": "key-th-curtain-damashii",
@@ -4967,7 +4921,7 @@
       "global_product_id": "keyth-kemomimi-badge",
       "character_id": "shikiya-yumeko",
       "name_ja": "トレーディング缶バッジ けもみみパーカー",
-      "name_zh": "兽耳连帽衫随机徽章",
+      "name_zh": "兽耳连帽造型随机徽章",
       "category_id": "can_badge",
       "campaign_id": "kemomimi-parka",
       "manufacturer_id": "key-th-curtain-damashii",
@@ -5017,7 +4971,7 @@
       "global_product_id": "keyth-kemomimi-noren",
       "character_id": "shikiya-yumeko",
       "name_ja": "のれん けもみみパーカー",
-      "name_zh": "兽耳连帽衫门帘",
+      "name_zh": "兽耳连帽造型门帘",
       "category_id": "fabric_goods",
       "campaign_id": "kemomimi-parka",
       "manufacturer_id": "key-th-curtain-damashii",
@@ -5067,7 +5021,7 @@
       "global_product_id": "keyth-kemomimi-rubbermat",
       "character_id": "shikiya-yumeko",
       "name_ja": "ラバーマット けもみみパーカー",
-      "name_zh": "兽耳连帽衫橡胶桌垫",
+      "name_zh": "兽耳连帽造型橡胶桌垫",
       "category_id": "stationery",
       "campaign_id": "kemomimi-parka",
       "manufacturer_id": "key-th-curtain-damashii",
@@ -5117,7 +5071,7 @@
       "global_product_id": "keyth-kemomimi-tote",
       "character_id": "shikiya-yumeko",
       "name_ja": "トートバッグ けもみみパーカー",
-      "name_zh": "兽耳连帽衫托特包",
+      "name_zh": "兽耳连帽造型托特包",
       "category_id": "bag",
       "campaign_id": "kemomimi-parka",
       "manufacturer_id": "key-th-curtain-damashii",
@@ -5167,7 +5121,7 @@
       "global_product_id": "keyth-kemomimi-tshirt",
       "character_id": "shikiya-yumeko",
       "name_ja": "Tシャツ けもみみパーカー",
-      "name_zh": "兽耳连帽衫 T 恤",
+      "name_zh": "兽耳连帽造型 T 恤",
       "category_id": "apparel",
       "campaign_id": "kemomimi-parka",
       "manufacturer_id": "key-th-curtain-damashii",
@@ -6972,11 +6926,11 @@
       "global_product_id": "gagaga-j20250040",
       "character_id": "shikiya-yumeko",
       "name_ja": "『負けヒロインが多すぎる！』×「竹島水族館」コラボランダム缶バッジ",
-      "name_zh": "竹岛水族馆联动 随机徽章 志喜屋梦子款",
+      "name_zh": "竹岛水族馆联动 随机徽章",
       "category_id": "can_badge",
       "campaign_id": "takeshima-aquarium",
       "manufacturer_id": "gagaga-shop-online",
-      "variant": "志喜屋梦子款包含在随机阵容中",
+      "variant": "志喜屋梦子款包含在随机全9种中",
       "sale_format": {
         "type": "random",
         "total_variants": 9
@@ -10339,8 +10293,8 @@
         {
           "path": "images/items/eternorecit-stand-keyholder-shikiya.jpg",
           "thumbnail_path": "images/thumbs/eternorecit-stand-keyholder-shikiya.webp",
-          "role": "lineup",
-          "source_url": "https://www.eternorecit.jp/images/collabo/2025/er05-makeine-a/ermkino013-020.jpg"
+          "role": "product",
+          "source_url": "https://goodsrepublic.com/media/binary/013/645/315/13645315.jpg"
         }
       ],
       "sales": [
@@ -10355,6 +10309,11 @@
           "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
           "type": "official",
           "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://goodsrepublic.com/product/product_page_8334363.html",
+          "type": "retailer",
+          "checked_at": "2026-10-10"
         }
       ],
       "tags": [
@@ -10363,14 +10322,14 @@
         "爱心Q版",
         "志喜屋梦子"
       ],
-      "notes": "已按 ETERNO RÉCIT 官方联动页的对应商品品类图核对。"
+      "notes": "Eterno Recit 官方活动页确认商品；单品图由 Goods Republic 商品页核对。"
     },
     {
       "id": "keyth-kemomimi-block-shikiya",
       "global_product_id": "keyth-kemomimi-block-shikiya",
       "character_id": "shikiya-yumeko",
       "name_ja": "ダイカットアクリルブロック 志喜屋夢子／ケモミミパーカー",
-      "name_zh": "兽耳连帽衫 异形亚克力砖 志喜屋梦子",
+      "name_zh": "兽耳连帽造型 异形亚克力砖 志喜屋梦子",
       "category_id": "acrylic_art",
       "campaign_id": "kemomimi-parka",
       "manufacturer_id": "key-th-curtain-damashii",
@@ -10421,7 +10380,7 @@
       "global_product_id": "keyth-kemomimi-stand-shikiya",
       "character_id": "shikiya-yumeko",
       "name_ja": "アクリルスタンド 志喜屋夢子／ケモミミパーカー",
-      "name_zh": "兽耳连帽衫 亚克力立牌 志喜屋梦子",
+      "name_zh": "兽耳连帽造型 亚克力立牌 志喜屋梦子",
       "category_id": "acrylic_stand",
       "campaign_id": "kemomimi-parka",
       "manufacturer_id": "key-th-curtain-damashii",
@@ -10472,7 +10431,7 @@
       "global_product_id": "keyth-kemomimi-keychain-shikiya",
       "character_id": "shikiya-yumeko",
       "name_ja": "アクリルキーホルダー 志喜屋夢子／ケモミミパーカー",
-      "name_zh": "兽耳连帽衫 亚克力挂件 志喜屋梦子",
+      "name_zh": "兽耳连帽造型 亚克力挂件 志喜屋梦子",
       "category_id": "acrylic_keychain",
       "campaign_id": "kemomimi-parka",
       "manufacturer_id": "key-th-curtain-damashii",
@@ -10573,8 +10532,8 @@
       "id": "gagaga-j20260007",
       "global_product_id": "gagaga-j20260007",
       "character_id": "shikiya-yumeko",
-      "name_ja": "『負けヒロインが多すぎる！』 8.5巻 口絵タペストリー B",
-      "name_zh": "小说第8.5卷 彩页挂毯 B",
+      "name_ja": "『負けヒロインが多すぎる！』 8.5巻 口絵タペストリー ～パジャマ、パーティー･･･？～ A",
+      "name_zh": "小说第8.5卷 彩页挂毯 睡衣、派对……？ A",
       "category_id": "tapestry",
       "campaign_id": "novel-volume-8-5",
       "manufacturer_id": "gagaga-shop-online",
@@ -10587,7 +10546,7 @@
         "size": null,
         "material": null
       },
-      "release_date": null,
+      "release_date": "2026-01-26",
       "list_price_yen": 3300,
       "official_status": "official",
       "verification": "confirmed_image",
@@ -10624,8 +10583,8 @@
       "id": "gagaga-j20260008",
       "global_product_id": "gagaga-j20260008",
       "character_id": "shikiya-yumeko",
-      "name_ja": "『負けヒロインが多すぎる！』 8.5巻 口絵タペストリー C",
-      "name_zh": "小说第8.5卷 彩页挂毯 C",
+      "name_ja": "『負けヒロインが多すぎる！』 8.5巻 口絵タペストリー ～パジャマ、パーティー･･･？～ B",
+      "name_zh": "小说第8.5卷 彩页挂毯 睡衣、派对……？ B",
       "category_id": "tapestry",
       "campaign_id": "novel-volume-8-5",
       "manufacturer_id": "gagaga-shop-online",
@@ -10638,7 +10597,7 @@
         "size": null,
         "material": null
       },
-      "release_date": null,
+      "release_date": "2026-01-26",
       "list_price_yen": 3300,
       "official_status": "official",
       "verification": "confirmed_image",
@@ -10675,8 +10634,8 @@
       "id": "gagaga-j20260010",
       "global_product_id": "gagaga-j20260010",
       "character_id": "shikiya-yumeko",
-      "name_ja": "『負けヒロインが多すぎる！』 8.5巻 アクリルアートパネル B",
-      "name_zh": "小说第8.5卷 亚克力艺术板 B",
+      "name_ja": "『負けヒロインが多すぎる！』 8.5巻 アクリルアートパネル ～パジャマ、パーティー･･･？～ A",
+      "name_zh": "小说第8.5卷 亚克力艺术板 睡衣、派对……？ A",
       "category_id": "acrylic_art",
       "campaign_id": "novel-volume-8-5",
       "manufacturer_id": "gagaga-shop-online",
@@ -10689,7 +10648,7 @@
         "size": null,
         "material": null
       },
-      "release_date": null,
+      "release_date": "2026-01-26",
       "list_price_yen": 3850,
       "official_status": "official",
       "verification": "confirmed_image",
@@ -10698,7 +10657,7 @@
           "path": "images/items/gagaga-j20260010.jpg",
           "thumbnail_path": "images/thumbs/gagaga-j20260010.webp",
           "role": "product",
-          "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20260011-01.jpg"
+          "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20260010-01.jpg"
         }
       ],
       "sales": [
@@ -10726,8 +10685,8 @@
       "id": "gagaga-j20260011",
       "global_product_id": "gagaga-j20260011",
       "character_id": "shikiya-yumeko",
-      "name_ja": "『負けヒロインが多すぎる！』 8.5巻 アクリルアートパネル C",
-      "name_zh": "小说第8.5卷 亚克力艺术板 C",
+      "name_ja": "『負けヒロインが多すぎる！』 8.5巻 アクリルアートパネル ～パジャマ、パーティー･･･？～ B",
+      "name_zh": "小说第8.5卷 亚克力艺术板 睡衣、派对……？ B",
       "category_id": "acrylic_art",
       "campaign_id": "novel-volume-8-5",
       "manufacturer_id": "gagaga-shop-online",
@@ -10740,7 +10699,7 @@
         "size": null,
         "material": null
       },
-      "release_date": null,
+      "release_date": "2026-01-26",
       "list_price_yen": 3850,
       "official_status": "official",
       "verification": "confirmed_image",
@@ -10749,7 +10708,7 @@
           "path": "images/items/gagaga-j20260011.jpg",
           "thumbnail_path": "images/thumbs/gagaga-j20260011.webp",
           "role": "product",
-          "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20260010-01.jpg"
+          "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20260011-01.jpg"
         }
       ],
       "sales": [
@@ -10772,6 +10731,218 @@
         "志喜屋梦子"
       ],
       "notes": "官方商品图明确包含志喜屋梦子与温水佳树。"
+    },
+    {
+      "id": "tsutaya-jirai-trading-acrylic-card-shikiya",
+      "global_product_id": "tsutaya-jirai-trading-acrylic-card",
+      "character_id": "shikiya-yumeko",
+      "name_ja": "TSUTAYA巡回POP UP SHOP アクリルトレーディングカード 志喜屋夢子",
+      "name_zh": "地雷服 随机亚克力收藏卡 志喜屋梦子",
+      "category_id": "card",
+      "campaign_id": "tsutaya-jirai-2024",
+      "manufacturer_id": "tsutaya",
+      "variant": "全11种随机（志喜屋梦子 Q版款1种）",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 11
+      },
+      "spec": {
+        "size": "约54×86mm",
+        "material": "亚克力"
+      },
+      "release_date": "2024-12-06",
+      "list_price_yen": 550,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/tsutaya-jirai-trading-acrylic-card-1-shikiya.png",
+          "thumbnail_path": "images/thumbs/tsutaya-jirai-trading-acrylic-card-1-shikiya.webp",
+          "role": "Q版款",
+          "source_url": "https://shibuyatsutaya.tsite.jp/editor_files/article/000/000/588/article_body/img_20241127172442_014.png"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "TSUTAYA",
+          "phase": "general_sale",
+          "url": "https://shibuyatsutaya.tsite.jp/article/588.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://shibuyatsutaya.tsite.jp/article/588.html",
+          "type": "official",
+          "checked_at": "2026-10-09"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "TSUTAYA",
+        "地雷服",
+        "Q版",
+        "志喜屋梦子"
+      ],
+      "notes": "盲抽商品；本条使用官方单品图标明志喜屋梦子对应款。"
+    },
+    {
+      "id": "tsutaya-jirai-random-acrylic-keychain-shikiya",
+      "global_product_id": "tsutaya-jirai-random-acrylic-keychain",
+      "character_id": "shikiya-yumeko",
+      "name_ja": "TSUTAYA巡回POP UP SHOP アクリルキーホルダー 志喜屋夢子",
+      "name_zh": "地雷服 随机亚克力挂件 志喜屋梦子",
+      "category_id": "acrylic_keychain",
+      "campaign_id": "tsutaya-jirai-2024",
+      "manufacturer_id": "tsutaya",
+      "variant": "全11种随机（志喜屋梦子 Q版款1种）",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 11
+      },
+      "spec": {
+        "size": "约50×55mm",
+        "material": "亚克力"
+      },
+      "release_date": "2024-12-06",
+      "list_price_yen": 660,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/tsutaya-jirai-random-acrylic-keychain-1-shikiya.png",
+          "thumbnail_path": "images/thumbs/tsutaya-jirai-random-acrylic-keychain-1-shikiya.webp",
+          "role": "Q版款",
+          "source_url": "https://shibuyatsutaya.tsite.jp/editor_files/article/000/000/588/article_body/img_20241127173924_014.png"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "TSUTAYA",
+          "phase": "general_sale",
+          "url": "https://shibuyatsutaya.tsite.jp/article/588.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://shibuyatsutaya.tsite.jp/article/588.html",
+          "type": "official",
+          "checked_at": "2026-10-09"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "TSUTAYA",
+        "地雷服",
+        "Q版",
+        "志喜屋梦子"
+      ],
+      "notes": "盲抽商品；本条使用官方单品图标明志喜屋梦子对应款。"
+    },
+    {
+      "id": "tsutaya-jirai-random-badge-shikiya",
+      "global_product_id": "tsutaya-jirai-random-badge",
+      "character_id": "shikiya-yumeko",
+      "name_ja": "TSUTAYA巡回POP UP SHOP 缶バッジ 志喜屋夢子",
+      "name_zh": "地雷服 随机徽章 志喜屋梦子",
+      "category_id": "can_badge",
+      "campaign_id": "tsutaya-jirai-2024",
+      "manufacturer_id": "tsutaya",
+      "variant": "全11种随机（志喜屋梦子 Q版款1种）",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 11
+      },
+      "spec": {
+        "size": "约57mm",
+        "material": "金属、纸、薄膜"
+      },
+      "release_date": "2024-12-06",
+      "list_price_yen": 550,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/tsutaya-jirai-random-badge-1-shikiya.png",
+          "thumbnail_path": "images/thumbs/tsutaya-jirai-random-badge-1-shikiya.webp",
+          "role": "Q版款",
+          "source_url": "https://shibuyatsutaya.tsite.jp/editor_files/article/000/000/588/article_body/img_20241127173924_025.png"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "TSUTAYA",
+          "phase": "general_sale",
+          "url": "https://shibuyatsutaya.tsite.jp/article/588.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://shibuyatsutaya.tsite.jp/article/588.html",
+          "type": "official",
+          "checked_at": "2026-10-09"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "TSUTAYA",
+        "地雷服",
+        "Q版",
+        "志喜屋梦子"
+      ],
+      "notes": "盲抽商品；本条使用官方单品图标明志喜屋梦子对应款。"
+    },
+    {
+      "id": "tsutaya-jirai-random-chibi-stand-shikiya",
+      "global_product_id": "tsutaya-jirai-random-chibi-stand",
+      "character_id": "shikiya-yumeko",
+      "name_ja": "TSUTAYA巡回POP UP SHOP デフォルメイラストアクリルスタンドフィギュア 志喜屋夢子",
+      "name_zh": "地雷服 随机Q版亚克力立牌 志喜屋梦子",
+      "category_id": "acrylic_stand",
+      "campaign_id": "tsutaya-jirai-2024",
+      "manufacturer_id": "tsutaya",
+      "variant": "全8种随机（志喜屋梦子 Q版款1种）",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 8
+      },
+      "spec": {
+        "size": "本体约40×50mm以内；底座40×40mm",
+        "material": "亚克力"
+      },
+      "release_date": "2024-12-06",
+      "list_price_yen": 660,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/tsutaya-jirai-random-chibi-stand-shikiya.png",
+          "thumbnail_path": "images/thumbs/tsutaya-jirai-random-chibi-stand-shikiya.webp",
+          "role": "Q版款",
+          "source_url": "https://shibuyatsutaya.tsite.jp/editor_files/article/000/000/588/article_body/img_20241127180521_008.png"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "TSUTAYA",
+          "phase": "general_sale",
+          "url": "https://shibuyatsutaya.tsite.jp/article/588.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://shibuyatsutaya.tsite.jp/article/588.html",
+          "type": "official",
+          "checked_at": "2026-10-09"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "TSUTAYA",
+        "地雷服",
+        "Q版",
+        "志喜屋梦子"
+      ],
+      "notes": "盲抽商品；本条使用官方单品图标明志喜屋梦子对应款。"
     }
   ]
 }
