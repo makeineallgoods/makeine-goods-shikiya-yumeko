@@ -6111,18 +6111,18 @@
       "notes": null
     },
     {
-      "id": "amnibus-nonhoi-chibi-mug",
-      "global_product_id": "amnibus-nonhoi-chibi-mug",
+      "id": "amnibus-nonhoi-chibi-attraction-mug",
+      "global_product_id": "amnibus-nonhoi-chibi-attraction-mug",
       "character_id": "shikiya-yumeko",
       "name_ja": "ちびキャラ アトラクションver. マグカップ",
       "name_zh": "丰桥动物园 Q 版游乐设施马克杯",
       "category_id": "tableware",
       "campaign_id": "nonhoi-park",
       "manufacturer_id": "arma-bianca",
-      "variant": "集合图内含志喜屋梦子",
+      "variant": "游乐设施版图案包含志喜屋梦子",
       "sale_format": {
         "type": "single",
-        "total_variants": null
+        "total_variants": 2
       },
       "spec": {
         "size": "直径约82×H95mm",
@@ -6134,10 +6134,10 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/amnibus-nonhoi-chibi-mug.jpg",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8499/16064-8499-b88f22e3fbc32f789cc1fb3aa22cdf77-1350x1500.jpg",
-          "thumbnail_path": "images/thumbs/amnibus-nonhoi-chibi-mug.webp"
+          "path": "images/items/amnibus-nonhoi-chibi-attraction-mug.jpg",
+          "thumbnail_path": "images/thumbs/amnibus-nonhoi-chibi-attraction-mug.webp",
+          "role": "product",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8499/16064-8499-b88f22e3fbc32f789cc1fb3aa22cdf77-1350x1500.jpg"
         }
       ],
       "sales": [
@@ -6156,9 +6156,11 @@
       ],
       "tags": [
         "丰桥动物园",
-        "Q版"
+        "Q版",
+        "游乐设施版",
+        "志喜屋梦子"
       ],
-      "notes": null
+      "notes": "官方商品图与角色阵容确认：游乐设施版图案包含志喜屋梦子。"
     },
     {
       "id": "amnibus-nonhoi-chibi-stand",
@@ -8775,7 +8777,7 @@
           "path": "images/items/thechara-pale-keychain-shikiya.jpg",
           "thumbnail_path": "images/thumbs/thechara-pale-keychain-shikiya.webp",
           "role": "product",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/69812/838/69812-838-03e5bad2e1da5757f2b4128449646d23-800x800.jpg"
+          "source_url": "https://tc-gamers.techorus-cdn.com/upload/save_image/06181250_6a336affc7859.jpg"
         }
       ],
       "sales": [
@@ -8790,6 +8792,11 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html",
           "type": "official",
           "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://www.gamers.co.jp/pd/10907445/",
+          "type": "official_retail",
+          "checked_at": "2026-10-15"
         }
       ],
       "tags": [
@@ -8927,7 +8934,7 @@
           "path": "images/items/thechara-pale-microfiber-shikiya.jpg",
           "thumbnail_path": "images/thumbs/thechara-pale-microfiber-shikiya.webp",
           "role": "product",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/69812/838/69812-838-d0515c45f46168109a556cf486e03e9e-800x800.jpg"
+          "source_url": "https://tc-gamers.techorus-cdn.com/upload/save_image/06181310_6a336fbe3ce86.jpg"
         }
       ],
       "sales": [
@@ -8942,6 +8949,11 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html",
           "type": "official",
           "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://www.gamers.co.jp/pd/10907462/",
+          "type": "official_retail",
+          "checked_at": "2026-10-15"
         }
       ],
       "tags": [
@@ -9028,7 +9040,7 @@
           "path": "images/items/thechara-pale-stand-shikiya.jpg",
           "thumbnail_path": "images/thumbs/thechara-pale-stand-shikiya.webp",
           "role": "product",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/69812/838/69812-838-da40a66e309fb46972f60a6ae15b6dcc-800x800.jpg"
+          "source_url": "https://tc-gamers.techorus-cdn.com/upload/save_image/06181257_6a336c993cc75.jpg"
         }
       ],
       "sales": [
@@ -9043,6 +9055,11 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html",
           "type": "official",
           "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://www.gamers.co.jp/pd/10907452/",
+          "type": "official_retail",
+          "checked_at": "2026-10-15"
         }
       ],
       "tags": [
@@ -9079,7 +9096,7 @@
           "path": "images/items/thechara-pale-tapestry-shikiya.jpg",
           "thumbnail_path": "images/thumbs/thechara-pale-tapestry-shikiya.webp",
           "role": "product",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/69812/838/69812-838-89db8191d24bf0399d1bd811aef20e51-800x800.jpg"
+          "source_url": "https://tc-gamers.techorus-cdn.com/upload/save_image/06181315_6a3370ecaf1b2.jpg"
         }
       ],
       "sales": [
@@ -9094,6 +9111,11 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html",
           "type": "official",
           "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://www.gamers.co.jp/pd/10907469/",
+          "type": "official_retail",
+          "checked_at": "2026-10-15"
         }
       ],
       "tags": [
