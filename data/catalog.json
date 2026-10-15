@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "registry_version": "2026-10-09",
+  "registry_version": "2026-10-15",
   "catalog": {
     "title": "志喜屋梦子制品图鉴",
     "scope": "《败犬女主太多了！》中明确包含志喜屋梦子的官方实体制品",
-    "updated_at": "2026-10-10",
+    "updated_at": "2026-10-15",
     "status": "collecting"
   },
   "character": {
@@ -491,7 +491,7 @@
         "书签",
         "志喜屋梦子"
       ],
-      "notes": "购买活动对象漫画每册赠1张，赠完即止；集合图及中古单品页均确认志喜屋梦子款。"
+      "notes": "购买活动对象漫画每册赠1张，赠完即止；当前使用志喜屋梦子单品图。"
     },
     {
       "id": "animega-chibi-2025-big-stand-shikiya",
@@ -10943,6 +10943,323 @@
         "志喜屋梦子"
       ],
       "notes": "盲抽商品；本条使用官方单品图标明志喜屋梦子对应款。"
+    },
+    {
+      "character_id": "shikiya-yumeko",
+      "campaign_id": "jr-central-oshi-tabi-2024",
+      "manufacturer_id": "anican",
+      "release_date": "2024-03-01",
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "sources": [
+        {
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/",
+          "type": "official",
+          "checked_at": "2026-10-15"
+        },
+        {
+          "url": "https://anican.shop/items/667136ad8fe71803896dea1e",
+          "type": "official",
+          "checked_at": "2026-10-15"
+        }
+      ],
+      "tags": [
+        "原作版",
+        "JR东海",
+        "推し旅",
+        "志喜屋梦子"
+      ],
+      "id": "jr-central-2024-framed-stand-shikiya",
+      "global_product_id": "jr-central-2024-framed-stand-shikiya",
+      "name_ja": "JR東海 推し旅 2024 枠付きアクリルスタンド 志喜屋夢子",
+      "name_zh": "JR东海 推し旅 2024 边框亚克力立牌 志喜屋梦子",
+      "category_id": "acrylic_stand",
+      "variant": "志喜屋梦子；全6款之一",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 6
+      },
+      "spec": {
+        "size": null,
+        "material": "亚克力"
+      },
+      "list_price_yen": 1980,
+      "images": [
+        {
+          "path": "images/items/jr-central-2024-framed-stand-shikiya.jpg",
+          "thumbnail_path": "images/thumbs/jr-central-2024-framed-stand-shikiya.webp",
+          "role": "product",
+          "source_url": "https://imagedelivery.net/QondspN4HIUvB_R16-ddAQ/65efbbe1bd9ebe002a0e3175/aba6739bb425ab6f482f.jpg/original"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "精文馆书店 丰桥本店",
+          "phase": "event_sale",
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/"
+        }
+      ],
+      "notes": "アニキャン官方商品页提供志喜屋梦子款单品图。"
+    },
+    {
+      "character_id": "shikiya-yumeko",
+      "campaign_id": "jr-central-oshi-tabi-2024",
+      "manufacturer_id": "anican",
+      "release_date": "2024-03-01",
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "sources": [
+        {
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/",
+          "type": "official",
+          "checked_at": "2026-10-15"
+        }
+      ],
+      "tags": [
+        "原作版",
+        "JR东海",
+        "推し旅",
+        "志喜屋梦子"
+      ],
+      "id": "jr-central-2024-trading-badge",
+      "global_product_id": "jr-central-2024-trading-badge",
+      "name_ja": "JR東海 推し旅 2024 ブラインド缶バッジ",
+      "name_zh": "JR东海 推し旅 2024 随机徽章 志喜屋梦子款",
+      "category_id": "can_badge",
+      "variant": "随机6款包含志喜屋梦子",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 6
+      },
+      "spec": {
+        "size": null,
+        "material": "纸、马口铁"
+      },
+      "list_price_yen": 550,
+      "images": [
+        {
+          "path": "images/items/jr-central-2024-trading-badge.jpg",
+          "thumbnail_path": "images/thumbs/jr-central-2024-trading-badge.webp",
+          "role": "product",
+          "source_url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/img/goods-image02.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "精文馆书店 丰桥本店",
+          "phase": "event_sale",
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/"
+        }
+      ],
+      "notes": "盲抽商品；JR东海官方阵容图可确认志喜屋梦子图案。"
+    },
+    {
+      "character_id": "shikiya-yumeko",
+      "campaign_id": "jr-central-oshi-tabi-2024",
+      "manufacturer_id": "anican",
+      "release_date": "2024-03-01",
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "sources": [
+        {
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/",
+          "type": "official",
+          "checked_at": "2026-10-15"
+        }
+      ],
+      "tags": [
+        "原作版",
+        "JR东海",
+        "推し旅",
+        "志喜屋梦子"
+      ],
+      "id": "jr-central-2024-trading-acrylic-card",
+      "global_product_id": "jr-central-2024-trading-acrylic-card",
+      "name_ja": "JR東海 推し旅 2024 トレーディングアクリルカード",
+      "name_zh": "JR东海 推し旅 2024 随机亚克力卡 志喜屋梦子款",
+      "category_id": "card",
+      "variant": "随机6款包含志喜屋梦子",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 6
+      },
+      "spec": {
+        "size": null,
+        "material": "亚克力"
+      },
+      "list_price_yen": 770,
+      "images": [
+        {
+          "path": "images/items/jr-central-2024-trading-acrylic-card.jpg",
+          "thumbnail_path": "images/thumbs/jr-central-2024-trading-acrylic-card.webp",
+          "role": "product",
+          "source_url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/img/goods-image03.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "精文馆书店 丰桥本店",
+          "phase": "event_sale",
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/"
+        }
+      ],
+      "notes": "盲抽商品；JR东海官方阵容图可确认志喜屋梦子图案。"
+    },
+    {
+      "character_id": "shikiya-yumeko",
+      "campaign_id": "jr-central-oshi-tabi-2024",
+      "manufacturer_id": "anican",
+      "release_date": "2024-03-01",
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "sources": [
+        {
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/",
+          "type": "official",
+          "checked_at": "2026-10-15"
+        }
+      ],
+      "tags": [
+        "原作版",
+        "JR东海",
+        "推し旅",
+        "志喜屋梦子"
+      ],
+      "id": "jr-central-2024-clear-file",
+      "global_product_id": "jr-central-2024-clear-file",
+      "name_ja": "JR東海 推し旅 2024 A4クリアファイル",
+      "name_zh": "JR东海 推し旅 2024 A4透明文件夹",
+      "category_id": "clear_file",
+      "variant": "6人群像图案包含志喜屋梦子",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "A4",
+        "material": "PP"
+      },
+      "list_price_yen": 550,
+      "images": [
+        {
+          "path": "images/items/jr-central-2024-clear-file.jpg",
+          "thumbnail_path": "images/thumbs/jr-central-2024-clear-file.webp",
+          "role": "product",
+          "source_url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/img/goods-image04.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "精文馆书店 丰桥本店",
+          "phase": "event_sale",
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/"
+        }
+      ],
+      "notes": "正面为6人群像，背面为角色领结图案。"
+    },
+    {
+      "character_id": "shikiya-yumeko",
+      "campaign_id": "jr-central-oshi-tabi-2024",
+      "manufacturer_id": "anican",
+      "release_date": "2024-03-01",
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "sources": [
+        {
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/",
+          "type": "official",
+          "checked_at": "2026-10-15"
+        }
+      ],
+      "tags": [
+        "原作版",
+        "JR东海",
+        "推し旅",
+        "志喜屋梦子"
+      ],
+      "id": "jr-central-2024-postcard-set",
+      "global_product_id": "jr-central-2024-postcard-set",
+      "name_ja": "JR東海 推し旅 2024 ポストカードセット",
+      "name_zh": "JR东海 推し旅 2024 明信片6枚套装",
+      "category_id": "card",
+      "variant": "6枚套装包含志喜屋梦子",
+      "sale_format": {
+        "type": "set",
+        "total_variants": 6
+      },
+      "spec": {
+        "size": "明信片尺寸",
+        "material": "纸"
+      },
+      "list_price_yen": 880,
+      "images": [
+        {
+          "path": "images/items/jr-central-2024-postcard-set.jpg",
+          "thumbnail_path": "images/thumbs/jr-central-2024-postcard-set.webp",
+          "role": "product",
+          "source_url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/img/goods-image05.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "精文馆书店 丰桥本店",
+          "phase": "event_sale",
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/"
+        }
+      ],
+      "notes": "固定6枚套装，其中1枚为志喜屋梦子。"
+    },
+    {
+      "character_id": "shikiya-yumeko",
+      "campaign_id": "jr-central-oshi-tabi-2024",
+      "manufacturer_id": "anican",
+      "release_date": "2024-03-01",
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "sources": [
+        {
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/",
+          "type": "official",
+          "checked_at": "2026-10-15"
+        }
+      ],
+      "tags": [
+        "原作版",
+        "JR东海",
+        "推し旅",
+        "志喜屋梦子"
+      ],
+      "id": "jr-central-2024-bookmark-shikiya",
+      "global_product_id": "jr-central-2024-bookmark-shikiya",
+      "name_ja": "JR東海 推し旅 2024 オリジナル栞 志喜屋夢子",
+      "name_zh": "JR东海 推し旅 2024 店铺特典书签 志喜屋梦子",
+      "category_id": "stationery",
+      "variant": "志喜屋梦子；全6款之一",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 6
+      },
+      "spec": {
+        "size": null,
+        "material": "纸"
+      },
+      "list_price_yen": null,
+      "images": [
+        {
+          "path": "images/items/jr-central-2024-bookmark-shikiya.jpg",
+          "thumbnail_path": "images/thumbs/jr-central-2024-bookmark-shikiya.webp",
+          "role": "product",
+          "source_url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/img/bookmark-05.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "丰桥市地下资源馆",
+          "phase": "purchase_bonus",
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/"
+        }
+      ],
+      "notes": "在志喜屋梦子对应地点完成指定消费条件并说出活动口令后领取。"
     }
   ]
 }
